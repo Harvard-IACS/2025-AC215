@@ -9,5 +9,5 @@ nav_order: 6
 # Calendar 
 
 
-![Schedule](/assets/images/E115 - Schedule.svg)
+![Schedule](/assets/images/AC215 - Schedule.svg)
 

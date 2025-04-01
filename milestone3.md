@@ -108,7 +108,7 @@ Your presentation will be assessed based on:
 
 ### **Additional Resources**
 - **Template Repository:**
-    [E115 Milestone 3 Template Repository](https://github.com/ac2152024/ac2152024_template/tree/milestone3)
+    [AC215 Milestone 3 Template Repository](https://github.com/ac2152024/ac2152024_template/tree/milestone3)
 
 - **Presentation Tips:**
     - Keep slides concise; avoid overcrowding with text.
