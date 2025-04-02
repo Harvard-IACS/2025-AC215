@@ -10,7 +10,7 @@ seo:
   keywords: "MLOps, LLMOps, AIOps, machine learning operations, LLM deployment, AI systems, production AI"
 ---
 
-# **WIP - MLOps & LLMOps: Production AI Systems** - AC215
+# **  MLOps & LLMOps: Production AI Systems** - AC215/E115
 {:.no_toc}
 
 ## Table of contents
@@ -20,10 +20,10 @@ seo:
 {:toc}
 
 ---
-
+draft: April 2, 2025
 ## Course Introduction
 
-In today's AI-driven world, building a robust deep learning model is only half the journey. The real challenge often lies in bringing this model to life in the form of an application that's scalable, maintainable, and ready for real-world deployment. Welcome to AC215: Productionizing AI (Machine Learning Operations), where we will traverse the complex landscape of Machine Learning Operations, with a special focus on Large Language Models (LLMs). This course has been meticulously curated to provide a holistic understanding of the complete deep learning workflow, from refining your models to deploying them in production environments.
+In today's AI-driven world, building a robust deep learning model is only half the journey. The real challenge often lies in bringing this model to life in the form of an application that's scalable, maintainable, and ready for real-world deployment. Welcome to AC215/E115: Productionizing AI (Machine Learning Operations), where we will traverse the complex landscape of Machine Learning Operations, with a special focus on Large Language Models (LLMs). This course has been meticulously curated to provide a holistic understanding of the complete deep learning workflow, from refining your models to deploying them in production environments.
 
 We will dive deep into topics like containerization, cloud functions, data pipelines, and advanced training workflows, with specific emphasis on LLMs. You will learn how to utilize LLM APIs effectively, host APIs, fine-tune LLMs for specific tasks, adapt them to various domains, and build applications around them. Our objective is not only to help you grasp these concepts but also to enable you to build and deploy scalable AI applications. We will examine the particular intricacies of LLMs and their applications in real-world scenarios.
 
@@ -35,7 +35,7 @@ Whether you are an AI enthusiast wanting to understand the intricacies of Machin
 
 - **Location:** SEC 1.321
 - **Meeting Time:** Tuesday and Thursday 12:45 - 2:45 PM. 
-
+- **For Extension Students Only:** Via Zoom 
   
 
 ## Technologies and Platforms
