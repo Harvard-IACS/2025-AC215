@@ -9,8 +9,8 @@ nav_order: 1
 
 **Key dates:**
 
-- project proposals due: Feb 20th
-- staff feedback: Feb 25th
+- project proposals due: TBD
+- staff feedback: TBD
 
 ### Objectives:
 
