@@ -1,7 +1,7 @@
 ---
-name: Shivas Jayaram
+name: Itamar Rocho Filho
 role: Teaching Assistant
 # email: shivasj AT gmail
 # website: https://kevinl.info
-photo: shivas.png
+photo: itamar.png
 ---
