@@ -4,6 +4,7 @@ title: FAQs
 description: Frequently Asked Questions.
 nav_order: 6
 ---
+## FAQ 
 
 ### 1. How is attendance recorded, and what counts as “attendance”?
 
@@ -11,17 +12,21 @@ Attendance is recorded by having students complete an online quiz question that 
 
 **Note:** This attendance policy does **not** apply to Extension School students, who are not required to attend live sessions either in person or via Zoom.
 
+---
 
 ### 2. Can I earn late days by just showing up briefly to lectures?
 
 No. To ensure fairness, attendance requires meaningful participation. Automated and manual checks will be conducted, and attempts to misrepresent attendance violate the honor code and may result in disciplinary action.
 
+---
 
 ### 3. What happens if one group member has no late days left but others do?
 
 For group assignments, the **total number of late days available to the group must be at least equal to the number of group members multiplied by 4**. This ensures sufficient flexibility for the entire team.
 
 If the group’s combined late days do not meet this requirement, the group **cannot** collectively extend the deadline. We encourage groups to plan accordingly and support all members in managing their late days responsibly.
+
+---
 
 ### 4. Can I request deadline extensions beyond the late days if I have personal issues?
 
