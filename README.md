@@ -246,7 +246,7 @@ To foster inclusion:
 
 ---
 
-### Auditing
+## Auditing
 
 To request permission to audit the course, please email ac215harvard@gmail.com with the following:
 
