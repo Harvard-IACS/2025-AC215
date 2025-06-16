@@ -58,6 +58,8 @@ A comprehensive curriculum including:
 
 [Full topics list](https://docs.google.com/spreadsheets/d/e/2PACX-1vRGX6JiavaCkk11eg-BKSGvU9D5KKXaBONw9ZflnKJK52QUuTTpDnHpBhxSoBf95Q/pubhtml?gid=1824717664&single=true)
 
+[Full topics list](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRGX6JiavaCkk11eg-BKSGvU9D5KKXaBONw9ZflnKJK52QUuTTpDnHpBhxSoBf95Q/pubhtml?gid=182104043&single=true)
+
 ---
 
 ## Logistics & Tools
@@ -255,8 +257,6 @@ To request permission to audit the course, please email ac215harvard@gmail.com w
 
 **Important:**  
 You must **not** be currently enrolled in the course when making this request. If you are listed as an enrolled student in Canvas, you must drop the course before you can be added as an auditor.
-
----
 
 **Auditors must agree to the following policies:**
 
