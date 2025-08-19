@@ -84,7 +84,7 @@ Reach out to course staff confidentially to discuss any concerns. We prioritize 
 
 ### 13. Is there a class GitHub repository?
 
-Yes. The class GitHub repository contains code examples, notebooks, and resources used throughout the course. You will receive access details during the semester. [GITHUB URL GOES HERE ]
+Yes. The class [GitHub repository](https://github.com/Harvard-IACS/2024-AC215) contains code examples, notebooks, and resources used throughout the course. You will receive access details during the semester. 
 
 ---
 
