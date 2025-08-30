@@ -19,7 +19,7 @@ Overall schedule can be found [here](https://docs.google.com/spreadsheets/d/e/2P
 
 | Lecture Number | Date  | Topic | Link |
 | -------------- | ----- | ----- | ---- |
-| Lecture 1      | 09/02  | Introduction | [Coming Soon](#) |
+| Lecture 1      | 09/02  | Introduction | [View](https://drive.google.com/file/d/1o49wgBYRhYVSQTFJyadN0iPwk0V0uKAd/view?usp=sharing) |
 
 
 
