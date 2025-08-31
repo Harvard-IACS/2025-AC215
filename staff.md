@@ -27,6 +27,7 @@ nav_order: 5
 
 
 ## Course Staff
+<div class="staffers-grid">
 {% for staffer in teaching_headtf %}
 {{ staffer }}
 {% endfor %}
@@ -36,7 +37,7 @@ nav_order: 5
 {{ staffer }}
 {% endfor %}
 {% endif %}
-
+</div>
 
 
 ## Contact 

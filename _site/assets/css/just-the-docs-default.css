@@ -2313,13 +2313,15 @@ div.opaque { background-color: #fff; }
 .schedule .schedule-event.section { background-color: #7253ed; }
 .schedule .schedule-event.office-hours { background-color: #2c84fa; }
 
-.staffer { display: flex; margin: 1rem 0; }
-.staffer .staffer-image { border-radius: 50%; height: 100px; margin-right: 1rem; width: auto; }
+.staffer { display: flex; margin: 0; }
+.staffer .staffer-image { border-radius: 50%; height: 120px; width: 100px; object-fit: cover; margin-right: 1rem; }
 .staffer .anchor-heading { right: auto; left: -1.5rem; }
 .staffer .staffer-name, .staffer .staffer-meta, .staffer p { margin: 0 0 0.25rem 0; }
 .staffer .staffer-pronouns { user-select: none; }
 .staffer .staffer-meta dt, .staffer .staffer-meta dd, .staffer .staffer-meta dd + dt { margin-top: 0; }
 @media (min-width: 31.25rem) { .staffer .staffer-meta { display: grid; grid-template-columns: auto 1fr; } }
+
+.staffers-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin: 1rem 0; }
 
 code { font-size: 14px; padding: 0.2em 0.4em; border: none; }
 

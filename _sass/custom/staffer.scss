@@ -1,12 +1,13 @@
 .staffer {
   display: flex;
-  margin: $sp-4 0;
+  margin: 0;
 
   .staffer-image {
     border-radius: 50%;
-    height: 100px;
+    height: 120px;
+    width: 100px;  // Narrower than height for vertical oval
+    object-fit: cover;
     margin-right: $sp-4;
-    width: auto;
   }
 
   .anchor-heading {
@@ -42,4 +43,12 @@
       grid-template-columns: auto 1fr;
     }
   }
+}
+
+// Add this new rule for the grid container
+.staffers-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;  // Two equal columns
+  gap: $sp-4;  // Space between grid items
+  margin: $sp-4 0;
 }
