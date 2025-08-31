@@ -1,13 +1,13 @@
 ---
-title: Week 11 - APIs & Frontend, Ansible
+title: Week 11 - CI/CD with GitHub Actions
 ---
 
-Nov 12
-: APIs & Frontend	 
-  : [Lecture 18](../assets/lectures/lecture18/L18_app_development_implement.pdf)
+Nov 11
+: Automating Software Development: CI/CD with GitHub Actions and other tools I
+  : [Lecture 17]()
 
 
-Nov 14
-: Deployment: Ansible 
-  : [Lecture 19](../assets/lectures/lecture19/L19_ansible_operations.pdf)
+Nov 13
+: Automating Software Development: CI/CD with GitHub Actions and other tools II
+  : [Lecture 18]()
 

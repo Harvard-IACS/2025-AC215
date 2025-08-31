@@ -1,14 +1,13 @@
 ---
-title: Week 10 - Github Actions, App Development 
+title: Week 10 - APIs and Frontend
 ---
 
-Nov 5
-: Automating Software Development: CI/CD with GitHub Actions and other tools
-  : [Lecture 16](../assets/lectures/lecture16/L16_ContinuousIntegration.pdf)
+Nov 4
+: APIs
+  : [Lecture 15]()
 
-Nov 7
-: App design, setup and code organization 
-  : [Lecture 17](../assets/lectures/lecture17/L17_app_development_design_setup.pdf)
+Nov 6
+: Frontend
+  : [Lecture 16]()
 
-: [**HW2 due 11/08**](){: .label .label-red }
-  
+: [**HW2 due 11/06**](){: .label .label-red }

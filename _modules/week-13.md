@@ -3,10 +3,10 @@ title: Week 13 - Thanksgiving
 ---
 
 
-Nov 26 
+Nov 25 
 : Thanksgiving Week
 
-Nov 28
+Nov 27
 : Thanksgiving Week
   
 

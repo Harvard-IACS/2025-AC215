@@ -9,6 +9,3 @@ Oct 21
 Oct 23
 : ML Workflows with Vertex AI
   : [Lecture 14]()
-
-
-  

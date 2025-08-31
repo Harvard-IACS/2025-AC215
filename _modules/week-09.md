@@ -1,13 +1,12 @@
 ---
-title: Week 9 - ML Workflows with Vertex AI, Midterm 
+title: Week 9 - Midterm , Guest Lecture
 ---
 
-Oct 29
-: ML Workflows with Vertex AI
-  : [Lecture 15](../assets/lectures/lecture15/L15_vertex_ai_ml_workflow_management.pdf)
+Oct 28
+: Midterm
 
 
-Oct 31 
-: Midterm (M3) Presentations
-  : [**M3 due 10/31**](https://harvard-iacs.github.io/2024-AC215/milestone3/){: .label .label-red }
+Oct 30
+: Guest Lecture - Modal Labs
 
+: [**Midterm due 10/28**](){: .label .label-red }
