@@ -3,9 +3,11 @@ title: Week 1 - Introduction, Virtual Environments, Virtual Machines
 ---
 
  
+Sep 02
 : Introduction
-  : [Lecture 1](../assets/lectures/lecture1/L01_introduction.pdf) ,  &nbsp;  [Setup & Installation](https://docs.google.com/document/d/1ixys_vzy5msA1oqRc3-YDKxt-nhSSSv3at1z0qQk8-I/edit?usp=drive_link)
+  : [Lecture 1](https://drive.google.com/file/d/1o49wgBYRhYVSQTFJyadN0iPwk0V0uKAd/view?usp=sharing) ,  &nbsp;  [Setup & Installation](https://docs.google.com/document/d/18FI-qlsSQ3kPve9wPUYQMQyoNcxgjeEHRE7twb7PevM/edit?usp=sharing)
 
- 
+Sep 04
 : Virtual Enviroments and Virtual Machines
-  : [Lecture 2](../assets/lectures/lecture2/L02_virtual_machines_virtual_environments.pdf) 
+  : [Lecture 2]() 
+

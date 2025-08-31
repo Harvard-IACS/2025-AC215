@@ -17,17 +17,15 @@ Overall schedule can be found [here](https://docs.google.com/spreadsheets/d/e/2P
 </style>
  
 
-| Lecture Number | Date  | Topic | Link |
-| -------------- | ----- | ----- | ---- |
-| Lecture 1      | 09/02  | Introduction | [View](https://drive.google.com/file/d/1o49wgBYRhYVSQTFJyadN0iPwk0V0uKAd/view?usp=sharing) |
-
-
+{% for module in site.modules limit: 4%}
+{{ module }}
+{% endfor %}
 
  
 
 ### Setup & Installation
 
-Refer to the [setup and installation document](RB-TODO) for a full list of softwares and tools we will be using in this class
+Refer to the [setup and installation document](https://docs.google.com/document/d/18FI-qlsSQ3kPve9wPUYQMQyoNcxgjeEHRE7twb7PevM/edit?usp=sharing) for a full list of softwares and tools we will be using in this class
 
 ### Policy on Usage of Publicly Available Class Material
 
