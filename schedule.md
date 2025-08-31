@@ -17,7 +17,7 @@ Overall schedule can be found [here](https://docs.google.com/spreadsheets/d/e/2P
 </style>
  
 
-{% for module in site.modules limit: 4%}
+{% for module in site.modules limit: 8%}
 {{ module }}
 {% endfor %}
 

@@ -1,15 +1,14 @@
 ---
-title: Week 7 - Model Compression and Distillation, Advanced Training Workflows
+title: Week 7 - LLMs - III
 ---
 
- 
-: Model Compression and Distillation
-  : [Lecture 11](../assets/lectures/lecture11/L11_compression_techniques.pdf)
+Oct 14
+: LLM: Finetuning
+  : [Lecture 11]()
 
- 
-: Advanced training workflows: experiment tracking (W&B), multi GPU, serverless training (Vertex AI) 
-  : [Lecture 12](../assets/lectures/lecture12/L12_advanced_training.pdf)
+Oct 16
+: Advanced training workflows: experiment tracking (W&B), multi GPU, serverless training (Vertex AI)
+  : [Lecture 12]()
 
-: [**M2 due 10/18**](https://harvard-iacs.github.io/2024-AC215/milestone2/){: .label .label-red }
-
+: [**MS 2 due 10/16**](){: .label .label-red }
   

@@ -1,13 +1,13 @@
 ---
-title: Week 5 - Fine Tuning, LORA
+title: Week 5 - LLMs - I
 ---
 
- 
-: LLM fine tuning and LORA - I
-    : [Lecture 9](../assets/lectures/lecture9/L09-FineTuning.pdf)
+Sep 30
+: LLM: Instruction Based GPT, ChatGPT
+    : [Lecture 7]()
 
- 
-: LLM fine tuning and LORA - II
-    : [Lecture 10](../assets/lectures/lecture9/L09-FineTuning.pdf)
+Oct 2
+: 	LLM: RAGs
+    : [Lecture 8]()
 
-
+: [**HW 1 due 10/02**](){: .label .label-red }
