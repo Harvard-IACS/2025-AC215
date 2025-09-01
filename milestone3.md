@@ -20,11 +20,9 @@ For this milestone, you will present your AI application in the form of an **inv
 
 
 ### **Key Dates**
-- **Presentation Date:** TBD
-    <!-- Details on the schedule and location will be posted on **Ed**. -->
-    Details on the schedule will be posted on **Ed**.  
-  **Slides submission:** Please submit slides by noon on 3/27 via Canvas.
-
+- **Presentation Date:** 10/28
+    Details on the schedule and location will be posted on **Ed**.
+  
 
 ### **Presentation Requirements**
 Your presentation should be **5 minutes** long, followed by **1 minute** for Q&A. It should include:
@@ -108,7 +106,7 @@ Your presentation will be assessed based on:
 
 ### **Additional Resources**
 - **Template Repository:**
-    [AC215 Milestone 3 Template Repository](https://github.com/ac2152024/ac2152024_template/tree/milestone3)
+    [AC215 Milestone 3 Template Repository]()
 
 - **Presentation Tips:**
     - Keep slides concise; avoid overcrowding with text.

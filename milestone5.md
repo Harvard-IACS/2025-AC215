@@ -6,16 +6,20 @@ nav_order: 5
 ---
 
 # Milestone 5: Final Project Delivery
-**Due Date:**  TBD
 
-**Showcase:** TBD
+### Key dates:
+
+- Showcase: 12/10
+
+- Due Date:  12/11
+
+
 
 ---
 ## Overview
 The final milestone focuses on three key areas:
 1. Production-ready deployment with Kubernetes and Ansible.
-2. Project demonstration and documentation.
-<!-- 3. Public communication of results through a live showcase. -->
+2. Public communication of results through a live showcase.
 
 ---
 
@@ -69,7 +73,7 @@ The final milestone focuses on three key areas:
 
 
 
-<!-- ### 4. Showcase (Dec 9th)
+### 4. Showcase (Dec 10th)
 - **Event Format**:
   - Each team will have **45 minutes** during the live showcase to present their project.
   - Participants will visit your booth to interact with your application and learn about your implementation.
@@ -82,7 +86,7 @@ The final milestone focuses on three key areas:
   A committee will evaluate all projects during the showcase to select the **Best of Show**. Evaluation criteria include:
   - Innovation and impact.
   - Technical complexity and robustness.
-  - Clarity of presentation and engagement with participants. -->
+  - Clarity of presentation and engagement with participants.
 
 
 ## Submission Instructions
@@ -93,7 +97,6 @@ The final milestone focuses on three key areas:
 ## Evaluation Criteria
 1. **GitHub (35%)**: Technical Depth, Content, Clarity, Coding Style
 2. **Documentation (25%)**: README and technical report are clear, complete, and easy to follow.
-<!-- 3. **Presentation and Showcase (40%)**: -->
-3. **Presentation (40%)**:
+3. **Presentation and Showcase (40%)**:
    - Video and blog post effectively communicate the project’s value and technical details.
-   <!-- - Engagement during the live showcase demonstrates clarity and understanding. -->
+   - Engagement during the live showcase demonstrates clarity and understanding.

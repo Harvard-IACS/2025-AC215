@@ -10,4 +10,3 @@ Nov 20
 : Scaling: Kubernetes  
   : [Lecture 20]()
 
-: [**M4 due 11/20**](){: .label .label-red }

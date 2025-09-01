@@ -10,11 +10,11 @@ Milestone 4 focuses on developing, testing, and deploying a user-facing applicat
 
 ### Key dates:
 
-- Due date:  TBD
+- Due date:  11/25
 
 
 ### Template Repository
-[Milestone 4 Template](https://github.com/ac2152024/ac2152024_template/tree/milestone4)
+[Milestone 4 Template]()
 
 
 ### Objectives:
