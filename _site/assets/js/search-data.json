@@ -239,396 +239,382 @@
   },"34": {
     "doc": "Readings",
     "title": "Virtual Environments",
-    "content": "Readings . ",
+    "content": ". | UV: Official Documentation . | UV: An In-Depth Guide to Python’s Fast and Ambitious New Package Manager . | UV vs PIP: Revolutionizing Python Package Management . | Python UV: The Ultimate Guide to the Fastest Python Package Manager . | . ",
     "url": "/readings/#virtual-environments",
     
     "relUrl": "/readings/#virtual-environments"
   },"35": {
-    "doc": "Readings",
-    "title": "Virtual Machines",
-    "content": "Setup/Installations (OPTIONAL) . ",
-    "url": "/readings/#virtual-machines",
-    
-    "relUrl": "/readings/#virtual-machines"
-  },"36": {
-    "doc": "Readings",
-    "title": "Containers",
-    "content": "Readings . ",
-    "url": "/readings/#containers",
-    
-    "relUrl": "/readings/#containers"
-  },"37": {
     "doc": "Readings",
     "title": "Readings",
     "content": " ",
     "url": "/readings/",
     
     "relUrl": "/readings/"
-  },"38": {
+  },"36": {
     "doc": "Schedule",
     "title": "Schedule",
     "content": "Overall schedule can be found here. ",
     "url": "/schedule/",
     
     "relUrl": "/schedule/"
-  },"39": {
+  },"37": {
     "doc": "Schedule",
     "title": "Week 1 - Introduction, Virtual Environments, Virtual Machines",
     "content": "Sep 02 Introduction Lecture 1 ,   Setup &amp; Installation Sep 04 Virtual Enviroments and Virtual Machines Lecture 2 ",
     "url": "/schedule/#week-1-introduction-virtual-environments-virtual-machines",
     
     "relUrl": "/schedule/#week-1-introduction-virtual-environments-virtual-machines"
-  },"40": {
+  },"38": {
     "doc": "Schedule",
     "title": "Week 2 - Containers",
     "content": "Sep 9 Containers I Lecture 3 Sep 11 Containers II Lecture 4   ",
     "url": "/schedule/#week-2-containers",
     
     "relUrl": "/schedule/#week-2-containers"
-  },"41": {
+  },"39": {
     "doc": "Schedule",
     "title": "Week 3 - Containers, App Design",
     "content": "Sep 16 Container Workflow Lecture 5 Sep 18 App design, setup and code organization and testing Lecture 6  ",
     "url": "/schedule/#week-3-containers-app-design",
     
     "relUrl": "/schedule/#week-3-containers-app-design"
-  },"42": {
+  },"40": {
     "doc": "Schedule",
     "title": "Week 4 - Project Ideation week",
     "content": "Sep 23 Project Ideation week Sep 25 Project Ideation week MS 1 due 09/25 . ",
     "url": "/schedule/#week-4-project-ideation-week",
     
     "relUrl": "/schedule/#week-4-project-ideation-week"
-  },"43": {
+  },"41": {
     "doc": "Schedule",
     "title": "Week 5 - LLMs - I",
     "content": "Sep 30 LLM: Instruction Based GPT, ChatGPT Lecture 7 Oct 2 LLM: RAGs Lecture 8 HW 1 due 10/02 . ",
     "url": "/schedule/#week-5-llms-i",
     
     "relUrl": "/schedule/#week-5-llms-i"
-  },"44": {
+  },"42": {
     "doc": "Schedule",
     "title": "Week 6 - LLMs - II",
     "content": "Oct 7 LLM: RAGs / Agents Lecture 9 Oct 9 LLM: Agents Lecture 10 ",
     "url": "/schedule/#week-6-llms-ii",
     
     "relUrl": "/schedule/#week-6-llms-ii"
-  },"45": {
+  },"43": {
     "doc": "Schedule",
     "title": "Week 7 - LLMs - III",
     "content": "Oct 14 LLM: Finetuning Lecture 11 Oct 16 Advanced training workflows: experiment tracking (W&amp;B), multi GPU, serverless training (Vertex AI) Lecture 12 MS 2 due 10/16 . ",
     "url": "/schedule/#week-7-llms-iii",
     
     "relUrl": "/schedule/#week-7-llms-iii"
-  },"46": {
+  },"44": {
     "doc": "Schedule",
     "title": "Week 8 - Serverless",
     "content": "Oct 21 Serverless Deployment: Cloud Functions, Cloud Run Lecture 13 Oct 23 ML Workflows with Vertex AI Lecture 14 ",
     "url": "/schedule/#week-8-serverless",
     
     "relUrl": "/schedule/#week-8-serverless"
-  },"47": {
+  },"45": {
     "doc": "Schedule",
     "title": "Week 9 - Midterm , Guest Lecture",
     "content": "Oct 28 Midterm Oct 30 Guest Lecture - Modal Labs Midterm due 10/28 . ",
     "url": "/schedule/#week-9-midterm-guest-lecture",
     
     "relUrl": "/schedule/#week-9-midterm-guest-lecture"
-  },"48": {
+  },"46": {
     "doc": "Schedule",
     "title": "Week 10 - APIs and Frontend",
     "content": "Nov 4 APIs Lecture 15 Nov 6 Frontend Lecture 16 HW2 due 11/06 . ",
     "url": "/schedule/#week-10-apis-and-frontend",
     
     "relUrl": "/schedule/#week-10-apis-and-frontend"
-  },"49": {
+  },"47": {
     "doc": "Schedule",
     "title": "Week 11 - CI/CD with GitHub Actions",
     "content": "Nov 11 Automating Software Development: CI/CD with GitHub Actions and other tools I Lecture 17 Nov 13 Automating Software Development: CI/CD with GitHub Actions and other tools II Lecture 18 ",
     "url": "/schedule/#week-11-ci-cd-with-github-actions",
     
     "relUrl": "/schedule/#week-11-ci-cd-with-github-actions"
-  },"50": {
+  },"48": {
     "doc": "Schedule",
     "title": "Week 12 - Scaling Kubernetes",
     "content": "Nov 18 Deployment: Pulumi Lecture 19 Nov 20 Scaling: Kubernetes Lecture 20 ",
     "url": "/schedule/#week-12-scaling-kubernetes",
     
     "relUrl": "/schedule/#week-12-scaling-kubernetes"
-  },"51": {
+  },"49": {
     "doc": "Schedule",
     "title": "Week 13 - Thanksgiving",
     "content": "Nov 25 Thanksgiving Week Nov 27 Thanksgiving Week M4 due 11/25 . ",
     "url": "/schedule/#week-13-thanksgiving",
     
     "relUrl": "/schedule/#week-13-thanksgiving"
-  },"52": {
+  },"50": {
     "doc": "Schedule",
     "title": "Week 14 - Final deployment and review",
     "content": "Dec 2 Final deployment and review Lecture 21 HW3 due 12/02 . ",
     "url": "/schedule/#week-14-final-deployment-and-review",
     
     "relUrl": "/schedule/#week-14-final-deployment-and-review"
-  },"53": {
+  },"51": {
     "doc": "Schedule",
     "title": "Week 15 - Projects",
     "content": "Dec 10 Showcase Dec 11 Project Deliverables Due MS5 due 12/11 . Setup &amp; Installation . Refer to the setup and installation document for a full list of softwares and tools we will be using in this class . Policy on Usage of Publicly Available Class Material . | Permitted Use: Class Material is made available primarily for the educational benefit of enrolled students and may be used by others for personal educational purposes only. | Prohibited Use: . | Selling or commercializing any part of the Class Material. | Sharing, distributing, or publishing any part of the Class Material in any form or through any medium without explicit permission from the instructor. | Modifying or altering the Class Material to create derivative works. | . | Attribution: Any permitted use of the Class Material must carry appropriate acknowledgment of the source (e.g., the instructor’s name, course title, and institution). | Enforcement: Failure to comply with this policy may result in legal action and/or disciplinary measures as applicable. | . Consent: . By accessing and using the Class Material, you indicate your acknowledgment and acceptance of this policy. ",
     "url": "/schedule/#week-15-projects",
     
     "relUrl": "/schedule/#week-15-projects"
-  },"54": {
+  },"52": {
     "doc": "Staff / Contact",
     "title": "Staff",
     "content": " ",
     "url": "/staff/#staff",
     
     "relUrl": "/staff/#staff"
-  },"55": {
+  },"53": {
     "doc": "Staff / Contact",
     "title": "Instructor",
     "content": "Pavlos Protopapas . https://www.stellardnn.org/ . ",
     "url": "/staff/#instructor",
     
     "relUrl": "/staff/#instructor"
-  },"56": {
+  },"54": {
     "doc": "Staff / Contact",
     "title": "Course Staff",
-    "content": "Rashmi Banthia . Berke Altiparmak . Eliot Atlani . Ioana Cristescu . Itamar Rocho Filho . Shivas Jayaram . Weiyue Li . ",
+    "content": "Rashmi Banthia . Berke Altiparmak . Claire Johnson . Eliot Atlani . Ioana Cristescu . Itamar Rocho Filho . Shivas Jayaram . Weiyue Li . ",
     "url": "/staff/#course-staff",
     
     "relUrl": "/staff/#course-staff"
-  },"57": {
+  },"55": {
     "doc": "Staff / Contact",
     "title": "Contact",
     "content": "For administrative or logistical questions, please e-mail class Helpline at ac215harvard@gmail.com . ",
     "url": "/staff/#contact",
     
     "relUrl": "/staff/#contact"
-  },"58": {
+  },"56": {
     "doc": "Staff / Contact",
     "title": "Office Hours",
     "content": "(See Ed) . ",
     "url": "/staff/#office-hours",
     
     "relUrl": "/staff/#office-hours"
-  },"59": {
+  },"57": {
     "doc": "Staff / Contact",
     "title": "Staff / Contact",
     "content": " ",
     "url": "/staff/",
     
     "relUrl": "/staff/"
-  },"60": {
+  },"58": {
     "doc": "Tutorials / Demo",
     "title": "In Class Tutorials / Demos for GCP (and AWS)",
     "content": " ",
     "url": "/tutorials_demo/#in-class-tutorials--demos-for-gcp-and-aws",
     
     "relUrl": "/tutorials_demo/#in-class-tutorials--demos-for-gcp-and-aws"
-  },"61": {
+  },"59": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 1: Create Simple Translate App - No Docker, No Pipenv",
     "content": ". | Lecture: L02 | Description: A simple translation app built without using Docker or Pipenv. | GCP GitHub URL: Install App on VM Manually (T1) | AWS GitHub URL: Install App on VM Manually (T1) - AWS | . ",
     "url": "/tutorials_demo/#tutorial-1-create-simple-translate-app---no-docker-no-pipenv",
     
     "relUrl": "/tutorials_demo/#tutorial-1-create-simple-translate-app---no-docker-no-pipenv"
-  },"62": {
+  },"60": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 2: Create Simple Translate App with Pipenv, No Docker",
     "content": ". | Lecture: L02 | Description: A translation app using Pipenv, without Docker. | GCP GitHub URL: Install App on VM using Pipenv (T2) | AWS GitHub URL: Install App on VM using Pipenv (T2) - AWS | . ",
     "url": "/tutorials_demo/#tutorial-2-create-simple-translate-app-with-pipenv-no-docker",
     
     "relUrl": "/tutorials_demo/#tutorial-2-create-simple-translate-app-with-pipenv-no-docker"
-  },"63": {
+  },"61": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 3: Create Simple Translate App with Docker, Push Image to Docker Hub",
     "content": ". | Lecture: L03 | Description: Build a simple translation app, containerize it with Docker, and push the image to Docker Hub. | GCP GitHub URL: Develop App using Containers (T3) | AWS GitHub URL: Develop App using Containers (T3) - AWS | . ",
     "url": "/tutorials_demo/#tutorial-3-create-simple-translate-app-with-docker-push-image-to-docker-hub",
     
     "relUrl": "/tutorials_demo/#tutorial-3-create-simple-translate-app-with-docker-push-image-to-docker-hub"
-  },"64": {
+  },"62": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 4: Run App in VM using Docker",
     "content": ". | Lecture: L03 | Description: A continuation of the Docker tutorial, running the containerized app in a VM. | GCP GitHub URL: Run App on VM using Docker (T4) | AWS GitHub URL: Run App on VM using Docker (T4) - AWS | . ",
     "url": "/tutorials_demo/#tutorial-4-run-app-in-vm-using-docker",
     
     "relUrl": "/tutorials_demo/#tutorial-4-run-app-in-vm-using-docker"
-  },"65": {
+  },"63": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 5: Mega Pipeline App",
     "content": ". | Lecture: L04 | Description: Build a Mega Pipeline App. | GCP GitHub URL: Mega Pipeline App | AWS GitHub URL: Work in Progress (WIP) | . ",
     "url": "/tutorials_demo/#tutorial-5-mega-pipeline-app",
     
     "relUrl": "/tutorials_demo/#tutorial-5-mega-pipeline-app"
-  },"66": {
+  },"64": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 5B: Mega Pipeline App with Flexible Workflow",
     "content": ". | Lecture: L05 | Description: Build a Mega Pipeline App with Flexible Workflow. | GCP GitHub URL: Mega Pipeline App (Flexible Workflow) | . ",
     "url": "/tutorials_demo/#tutorial-5b-mega-pipeline-app-with-flexible-workflow",
     
     "relUrl": "/tutorials_demo/#tutorial-5b-mega-pipeline-app-with-flexible-workflow"
-  },"67": {
+  },"65": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 6: Label Studio",
     "content": ". | Lecture: L06 | Description: Learn how to use Label Studio for data labeling. | GitHub URL: Label Studio [GCP and AWS] | . ",
     "url": "/tutorials_demo/#tutorial-6-label-studio",
     
     "relUrl": "/tutorials_demo/#tutorial-6-label-studio"
-  },"68": {
+  },"66": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 7: Data Versioning",
     "content": ". | Lecture: L06 | Description: Learn about versioning practices in development. Particularly, how to use DVC for data versioning. | GCP GitHub URL: DVC | . ",
     "url": "/tutorials_demo/#tutorial-7-data-versioning",
     
     "relUrl": "/tutorials_demo/#tutorial-7-data-versioning"
-  },"69": {
+  },"67": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 8: LLM-RAG",
     "content": ". | Lecture: L08 | Description: Building a RAG System with Vector DB and LLM | GCP GitHub URL: LLM-1 | . ",
     "url": "/tutorials_demo/#tutorial-8-llm-rag",
     
     "relUrl": "/tutorials_demo/#tutorial-8-llm-rag"
-  },"70": {
+  },"68": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 9: LLM-Agents",
     "content": ". | Lecture: L08 | Description: LLM Agents with Phidata (Notebook) | Colab Notebook: LLM-Agents | . ",
     "url": "/tutorials_demo/#tutorial-9-llm-agents",
     
     "relUrl": "/tutorials_demo/#tutorial-9-llm-agents"
-  },"71": {
+  },"69": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 10: LLM-Agents",
     "content": ". | Lecture: L08 | Description: LLM Agents | GCP GitHub URL: LLM-Agents | . ",
     "url": "/tutorials_demo/#tutorial-10-llm-agents",
     
     "relUrl": "/tutorials_demo/#tutorial-10-llm-agents"
-  },"72": {
+  },"70": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 11: LLM-Fine Tuning",
     "content": ". | Lecture: L09 | Description: LLM Fine Tuning using PEFT | GCP GitHub URL: LLM Fine Tuning | . ",
     "url": "/tutorials_demo/#tutorial-11-llm-fine-tuning",
     
     "relUrl": "/tutorials_demo/#tutorial-11-llm-fine-tuning"
-  },"73": {
+  },"71": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 12: Model Compression and Distillation",
     "content": ". | Lecture: L11 | Description: Model Compression and Distillation | Colab Notebook: Model Compression and Distillation | . ",
     "url": "/tutorials_demo/#tutorial-12-model-compression-and-distillation",
     
     "relUrl": "/tutorials_demo/#tutorial-12-model-compression-and-distillation"
-  },"74": {
+  },"72": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 13: Experiment Tracking",
     "content": ". | Lecture: L12 | Description: Classification Model, Experiment Tracking Colab Notebook A: Cheese Classification Models Colab Notebook B: Experiment Tracking with WANDB | . ",
     "url": "/tutorials_demo/#tutorial-13-experiment-tracking",
     
     "relUrl": "/tutorials_demo/#tutorial-13-experiment-tracking"
-  },"75": {
+  },"73": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 14: Advanced Workflow: Serveless Model Training with Vertex AI",
     "content": ". | Lecture: L12 | Description: Serveless Model Training with Vertex AI | GCP GitHub URL: Serverless Model Training | . ",
     "url": "/tutorials_demo/#tutorial-14-advanced-workflow-serveless-model-training-with-vertex-ai",
     
     "relUrl": "/tutorials_demo/#tutorial-14-advanced-workflow-serveless-model-training-with-vertex-ai"
-  },"76": {
+  },"74": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 15: Cloud Function and Cloud Run",
     "content": ". | Lecture: L13 | Description: Cloud Function and Cloud Run | GCP GitHub URL: Cloud Function, Cloud Run | . ",
     "url": "/tutorials_demo/#tutorial-15-cloud-function-and-cloud-run",
     
     "relUrl": "/tutorials_demo/#tutorial-15-cloud-function-and-cloud-run"
-  },"77": {
+  },"75": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 16: Model Deployment using Vertex AI",
     "content": ". | Lecture: L15 | Description: Model Deployment using Vertex AI | GCP GitHub URL: Model Deployment | . ",
     "url": "/tutorials_demo/#tutorial-16-model-deployment-using-vertex-ai",
     
     "relUrl": "/tutorials_demo/#tutorial-16-model-deployment-using-vertex-ai"
-  },"78": {
+  },"76": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 17: ML Workflow",
     "content": ". | Lecture: L14 | Description: Vertex AI ML Workflow for pipeline. Data Processing, data collection, model training, model deployment. | GCP GitHub URL: ML Workflow | . ",
     "url": "/tutorials_demo/#tutorial-17-ml-workflow",
     
     "relUrl": "/tutorials_demo/#tutorial-17-ml-workflow"
-  },"79": {
+  },"77": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 18: Deploy LLM on VM",
     "content": ". | Lecture: - | Description: Deploy your own LLM on VM. These are the steps to deploy a LLM on VM with all the scripts and code. | GCP GitHub URL: LLM on VM | . ",
     "url": "/tutorials_demo/#tutorial-18-deploy-llm-on-vm",
     
     "relUrl": "/tutorials_demo/#tutorial-18-deploy-llm-on-vm"
-  },"80": {
+  },"78": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 19: CI/CD with GitHub Actions and other tools",
     "content": ". | Lecture: L18 | Description: Simple CI | GCP GitHub URL: Simple CI | . ",
     "url": "/tutorials_demo/#tutorial-19-cicd-with-github-actions-and-other-tools",
     
     "relUrl": "/tutorials_demo/#tutorial-19-cicd-with-github-actions-and-other-tools"
-  },"81": {
+  },"79": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 20: LLM Finetuning Hooks",
     "content": ". | Lecture: L18 | Description: LLM Finetuning Hooks A | GCP GitHub URL: LLM Finetuning Hooks | . ",
     "url": "/tutorials_demo/#tutorial-20-llm-finetuning-hooks",
     
     "relUrl": "/tutorials_demo/#tutorial-20-llm-finetuning-hooks"
-  },"82": {
+  },"80": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 21: LLM Finetuning Hooks",
     "content": ". | Lecture: L19 | Description: LLM Finetuning Hooks B | GCP GitHub URL: LLM Finetuning Hooks | . ",
     "url": "/tutorials_demo/#tutorial-21-llm-finetuning-hooks",
     
     "relUrl": "/tutorials_demo/#tutorial-21-llm-finetuning-hooks"
-  },"83": {
+  },"81": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 22: Frontend and FastAPI",
     "content": ". | Lecture: L15 | Description: Simple Frontend with FastAPI | GCP GitHub URL: App v1 | . ",
     "url": "/tutorials_demo/#tutorial-22-frontend-and-fastapi",
     
     "relUrl": "/tutorials_demo/#tutorial-22-frontend-and-fastapi"
-  },"84": {
+  },"82": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 23: Backend and FastAPI",
     "content": ". | Lecture: L16 | Description: Cheese App APIs | GCP GitHub URL: App v2: FastAPI Backend | . ",
     "url": "/tutorials_demo/#tutorial-23-backend-and-fastapi",
     
     "relUrl": "/tutorials_demo/#tutorial-23-backend-and-fastapi"
-  },"85": {
+  },"83": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 24: Frontend Simple",
     "content": ". | Lecture: L17 | Description: Frontend Simple | GCP GitHub URL: App v2: Frontend Simple | . ",
     "url": "/tutorials_demo/#tutorial-24-frontend-simple",
     
     "relUrl": "/tutorials_demo/#tutorial-24-frontend-simple"
-  },"86": {
+  },"84": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 25: Frontend React",
     "content": ". | Lecture: L17 | Description: Frontend App (React) | GCP GitHub URL: App v2: Frontend React | . ",
     "url": "/tutorials_demo/#tutorial-25-frontend-react",
     
     "relUrl": "/tutorials_demo/#tutorial-25-frontend-react"
-  },"87": {
+  },"85": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 26: Deployment of the full app to GCP",
     "content": ". | Lecture: L20 | Description: Deployment to GCP using Ansible. Manual steps to deploy the app to GCP and automate using Ansible. | GCP GitHub URL: App v3: Deployment to GCP | . ",
     "url": "/tutorials_demo/#tutorial-26-deployment-of-the-full-app-to-gcp",
     
     "relUrl": "/tutorials_demo/#tutorial-26-deployment-of-the-full-app-to-gcp"
-  },"88": {
+  },"86": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 27: Deployment with Scaling using Kubernetes",
     "content": ". | Lecture: L21 | Description: Deployment with Scaling using Kubernetes | GCP GitHub URL: App v3: Deployment with Scaling using Kubernetes | . ",
     "url": "/tutorials_demo/#tutorial-27-deployment-with-scaling-using-kubernetes",
     
     "relUrl": "/tutorials_demo/#tutorial-27-deployment-with-scaling-using-kubernetes"
-  },"89": {
+  },"87": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 28: Continuous Integration and Continuous Deployment",
     "content": ". | Lecture: L22 | Description: Continuous Integration and Continuous Deployment | GCP GitHub URL: App v4: Continuous Integration and Continuous Deployment | AWS GitHub URL: No K8s App: AWS - Continuous Integration and Continuous Deployment | . ",
     "url": "/tutorials_demo/#tutorial-28-continuous-integration-and-continuous-deployment",
     
     "relUrl": "/tutorials_demo/#tutorial-28-continuous-integration-and-continuous-deployment"
-  },"90": {
+  },"88": {
     "doc": "Tutorials / Demo",
     "title": "Tutorials / Demo",
     "content": " ",

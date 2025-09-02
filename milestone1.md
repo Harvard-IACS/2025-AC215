@@ -10,7 +10,7 @@ nav_order: 1
 **Key dates:**
 
 - project proposals due: 09/25
-- staff feedback: TBD
+- staff feedback: 09/29
 
 ### Objectives:
 
