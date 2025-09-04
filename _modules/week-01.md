@@ -9,5 +9,5 @@ Sep 02
 
 Sep 04
 : Virtual Enviroments and Virtual Machines
-  : [Lecture 2]() 
+  : [Lecture 2](https://drive.google.com/file/d/16tuoF87Wh7aVH1hOPVk-Mu1KduAhBwgy/view?usp=sharing) 
 
