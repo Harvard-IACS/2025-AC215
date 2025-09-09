@@ -1,12 +1,10 @@
 ---
-title: Week 3 - Containers, App Design
+title: Week 3 - Project Ideation week
 ---
 
 Sep 16
-: Container Workflow
-  : [Lecture 5]()
-
+: Project Ideation week
 
 Sep 18
-: App design, setup and code organization and testing
-  : [Lecture 6]()&nbsp; 
+: Project Ideation week
+

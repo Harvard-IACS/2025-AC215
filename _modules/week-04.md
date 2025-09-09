@@ -1,11 +1,14 @@
 ---
-title: Week 4 - Project Ideation week
+title: Week 4 - Containers, App Design
 ---
 
 Sep 23
-: Project Ideation week
+: Container Workflow
+  : [Lecture 5]()
+
 
 Sep 25
-: Project Ideation week
+: App design, setup and code organization and testing
+  : [Lecture 6]()&nbsp; 
 
 : [**MS 1 due 09/25**](){: .label .label-red }

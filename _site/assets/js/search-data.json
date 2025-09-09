@@ -280,18 +280,18 @@
     "relUrl": "/schedule/#week-2-containers"
   },"40": {
     "doc": "Schedule",
-    "title": "Week 3 - Containers, App Design",
-    "content": "Sep 16 Container Workflow Lecture 5 Sep 18 App design, setup and code organization and testing Lecture 6  ",
-    "url": "/schedule/#week-3-containers-app-design",
+    "title": "Week 3 - Project Ideation week",
+    "content": "Sep 16 Project Ideation week Sep 18 Project Ideation week ",
+    "url": "/schedule/#week-3-project-ideation-week",
     
-    "relUrl": "/schedule/#week-3-containers-app-design"
+    "relUrl": "/schedule/#week-3-project-ideation-week"
   },"41": {
     "doc": "Schedule",
-    "title": "Week 4 - Project Ideation week",
-    "content": "Sep 23 Project Ideation week Sep 25 Project Ideation week MS 1 due 09/25 . ",
-    "url": "/schedule/#week-4-project-ideation-week",
+    "title": "Week 4 - Containers, App Design",
+    "content": "Sep 23 Container Workflow Lecture 5 Sep 25 App design, setup and code organization and testing Lecture 6  MS 1 due 09/25 . ",
+    "url": "/schedule/#week-4-containers-app-design",
     
-    "relUrl": "/schedule/#week-4-project-ideation-week"
+    "relUrl": "/schedule/#week-4-containers-app-design"
   },"42": {
     "doc": "Schedule",
     "title": "Week 5 - LLMs - I",
