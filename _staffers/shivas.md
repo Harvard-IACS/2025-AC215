@@ -1,6 +1,6 @@
 ---
 name: Shivas Jayaram
-role: Teaching Assistant
+role: Head TF
 # email: shivasj AT gmail
 # website: https://kevinl.info
 photo: shivas.png
