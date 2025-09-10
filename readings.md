@@ -21,8 +21,8 @@ nav_order: 4
   - [Why use Docker containers for machine learning development?](https://aws.amazon.com/blogs/opensource/why-use-docker-containers-for-machine-learning-development/)  
 
 - **Tutorials**
-  - [Docker For Beginners](https://docker-curriculum.com/) — long tutorial  
-  - [Docker Workshop](https://docs.docker.com/get-started/workshop/) — Official Docker getting started  
+  - [Docker For Beginners](https://docker-curriculum.com/) (long tutorial)
+  - [Docker Workshop](https://docs.docker.com/get-started/workshop/) - Official Docker getting started  
   - [Docker Compose Tutorial](https://anderfernandez.com/en/blog/docker-compose-tutorial/) 
 
 - **Videos**
