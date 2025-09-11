@@ -253,7 +253,7 @@
   },"36": {
     "doc": "Readings",
     "title": "Containers and Virtual Machines",
-    "content": ". | Concepts . | Containers vs VMs | Microservices vs Monolithic Architectures | Why use Docker containers for machine learning development? | . | Tutorials . | Docker For Beginners — long tutorial | Docker Workshop — Official Docker getting started | Docker Compose Tutorial | . | Videos . | Containerization Explained | Monolithic vs Microservice Architecture: Which To Use and When? | . | Research . | Navigating the Docker Ecosystem: A Comprehensive Taxonomy and Survey | . | . ",
+    "content": ". | Concepts . | Containers vs VMs | Microservices vs Monolithic Architectures | Why use Docker containers for machine learning development? | . | Tutorials . | Docker For Beginners (long tutorial) | Docker Workshop - Official Docker getting started | Docker Compose Tutorial | . | Videos . | Containerization Explained | Monolithic vs Microservice Architecture: Which To Use and When? | . | Research . | Navigating the Docker Ecosystem: A Comprehensive Taxonomy and Survey | . | . ",
     "url": "/readings/#containers-and-virtual-machines",
     
     "relUrl": "/readings/#containers-and-virtual-machines"
