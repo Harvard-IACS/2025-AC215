@@ -50,7 +50,7 @@ Collaboration and discussion are encouraged for learning, but all submitted work
 
 ### 7. What are the policies on using AI tools (e.g., ChatGPT) for assignments?
 
-You may use AI tools to **augment your understanding and draft code**, but all submissions must represent your original work. Clearly document any AI assistance in your code/comments or write-up. Using AI-generated work without disclosure may be considered plagiarism.
+You’re welcome to use large language models (LLMs) as a support tool—for brainstorming, or checking your understanding. Think of them as a helper, not a replacement for your own problem-solving and writing. What you turn in should always reflect **your understanding**. If you have NOT used AI tools, just make a brief note in your code comments or write-up. 
 
 ---
 
