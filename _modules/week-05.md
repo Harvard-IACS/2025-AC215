@@ -4,7 +4,7 @@ title: Week 5 - LLMs - I
 
 Sep 30
 : LLM: Instruction Based GPT, ChatGPT
-    : [Lecture 7](https://drive.google.com/file/d/1DcFTn91-J68lZfyu9IBt05iIqtKf328C/view?usp=sharing)
+    : [Lecture 7]()
 
 Oct 2
 : 	LLM: RAGs
