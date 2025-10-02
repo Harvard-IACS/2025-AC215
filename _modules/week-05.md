@@ -8,6 +8,6 @@ Sep 30
 
 Oct 2
 : 	LLM: RAGs
-    : [Lecture 8]()
+    : [Lecture 8](https://edstem.org/us/courses/84347/lessons/149873/slides/868980)
 
 : [**HW 1 due 10/02**](){: .label .label-red }
