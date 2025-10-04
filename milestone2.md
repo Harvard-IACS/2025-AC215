@@ -29,7 +29,7 @@ By the end, each team should have the required components in place and a **mock-
 
 ---
 
-### [Template Repository]()
+### [Template Repository](https://github.com/ac2152024/ac2152024_template/tree/milestone2)
 
 ---
 
