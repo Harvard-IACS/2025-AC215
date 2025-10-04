@@ -8,7 +8,7 @@ nav_order: 2
 
 ### Milestone 2: _MLOps Infrastructure_  
 
-**Building Containers and ML Components **
+**Building Containers and ML Components**
 
 ---
 
