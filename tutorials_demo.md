@@ -45,7 +45,7 @@ nav_order: 2
 - **Lecture**: [L04](../schedule/)
 - **Description**: Build a Mega Pipeline App.
 - **GCP GitHub URL**: [Mega Pipeline App](https://github.com/dlops-io/mega-pipeline)
-- **AWS GitHub URL**: Work in Progress (WIP)
+- **AWS GitHub URL**: [Mega Pipeline App](https://github.com/dlops-io/mega-pipeline-aws)
 
 ## Tutorial 5B: Mega Pipeline App with Flexible Workflow
 - **Lecture**: [L05](../schedule/)
