@@ -449,42 +449,42 @@
   },"64": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 6: Label Studio",
-    "content": ". | Lecture: L06 | Description: Learn how to use Label Studio for data labeling. | GitHub URL: Label Studio [GCP and AWS] | . ",
+    "content": ". | Lecture: [] | Description: Learn how to use Label Studio for data labeling. | GitHub URL: Label Studio [GCP and AWS] | . ",
     "url": "/tutorials_demo/#tutorial-6-label-studio",
     
     "relUrl": "/tutorials_demo/#tutorial-6-label-studio"
   },"65": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 7: Data Versioning",
-    "content": ". | Lecture: L06 | Description: Learn about versioning practices in development. Particularly, how to use DVC for data versioning. | GCP GitHub URL: DVC | . ",
+    "content": ". | Lecture: [] | Description: Learn about versioning practices in development. Particularly, how to use DVC for data versioning. | GCP GitHub URL: DVC | . ",
     "url": "/tutorials_demo/#tutorial-7-data-versioning",
     
     "relUrl": "/tutorials_demo/#tutorial-7-data-versioning"
   },"66": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 8: LLM-RAG",
-    "content": ". | Lecture: L08 | Description: Building a RAG System with Vector DB and LLM | GCP GitHub URL: LLM-1 | . ",
+    "content": ". | Lecture: L09 | Description: Building a RAG System with Vector DB and LLM | GCP GitHub URL: LLM-1 | . ",
     "url": "/tutorials_demo/#tutorial-8-llm-rag",
     
     "relUrl": "/tutorials_demo/#tutorial-8-llm-rag"
   },"67": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 9: LLM-Agents",
-    "content": ". | Lecture: L08 | Description: LLM Agents with Phidata (Notebook) | Colab Notebook: LLM-Agents | . ",
+    "content": ". | Lecture: L10 | Description: LLM Agents with Phidata (Notebook) | Colab Notebook: LLM-Agents | . ",
     "url": "/tutorials_demo/#tutorial-9-llm-agents",
     
     "relUrl": "/tutorials_demo/#tutorial-9-llm-agents"
   },"68": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 10: LLM-Agents",
-    "content": ". | Lecture: L08 | Description: LLM Agents | GCP GitHub URL: LLM-Agents | . ",
+    "content": ". | Lecture: L10 | Description: LLM Agents | GCP GitHub URL: LLM-Agents | . ",
     "url": "/tutorials_demo/#tutorial-10-llm-agents",
     
     "relUrl": "/tutorials_demo/#tutorial-10-llm-agents"
   },"69": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 11: LLM-Fine Tuning",
-    "content": ". | Lecture: L09 | Description: LLM Fine Tuning using PEFT | GCP GitHub URL: LLM Fine Tuning | . ",
+    "content": ". | Lecture: L11 | Description: LLM Fine Tuning using PEFT | GCP GitHub URL: LLM Fine Tuning | . ",
     "url": "/tutorials_demo/#tutorial-11-llm-fine-tuning",
     
     "relUrl": "/tutorials_demo/#tutorial-11-llm-fine-tuning"

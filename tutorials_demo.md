@@ -55,39 +55,39 @@ nav_order: 2
 ---
 
 ## Tutorial 6: Label Studio
-- **Lecture**: [L06](../schedule/)
+- **Lecture**: []
 - **Description**: Learn how to use Label Studio for data labeling.
 - **GitHub URL**: [Label Studio](https://github.com/dlops-io/data-labeling) [GCP and AWS]
 
 ---
 
 ## Tutorial 7: Data Versioning 
-- **Lecture**: [L06](../schedule/)
+- **Lecture**: []
 - **Description**: Learn about versioning practices in development. Particularly, how to use DVC for data versioning.
 - **GCP GitHub URL**: [DVC](https://github.com/dlops-io/data-versioning)
 
 ---
 
 ## Tutorial 8: LLM-RAG
-- **Lecture**: [L08](../schedule/)
+- **Lecture**: [L09](../schedule/)
 - **Description**: Building a RAG System with Vector DB and LLM
 - **GCP GitHub URL**: [LLM-1](https://github.com/dlops-io/llm-rag)
 
 
 ## Tutorial 9: LLM-Agents
-- **Lecture**: [L08](../schedule/)
+- **Lecture**: [L10](../schedule/)
 - **Description**: LLM Agents with Phidata (Notebook)
 - **Colab Notebook**: [LLM-Agents](https://colab.research.google.com/drive/1UVn3L6KQgsrVLnLRaMVbpV3VJr_i5MLW?usp=sharing)
 
 
 ## Tutorial 10: LLM-Agents
-- **Lecture**: [L08](../schedule/)
+- **Lecture**: [L10](../schedule/)
 - **Description**: LLM Agents 
 - **GCP GitHub URL**: [LLM-Agents](https://github.com/dlops-io/llm-rag?tab=readme-ov-file#agents)
 
 
 ## Tutorial 11: LLM-Fine Tuning
-- **Lecture**: [L09](../schedule/)
+- **Lecture**: [L11](../schedule/)
 - **Description**: LLM Fine Tuning using PEFT
 - **GCP GitHub URL**: [LLM Fine Tuning](https://github.com/dlops-io/llm-finetuning)
 
