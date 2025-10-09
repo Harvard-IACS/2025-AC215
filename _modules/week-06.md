@@ -8,7 +8,7 @@ Oct 7
 
 Oct 9 
 : LLM: Agents
-  : [Lecture 10]()
+  : [Lecture 10](https://edstem.org/us/courses/84347/lessons/150280/slides/871682)
 
 
   
