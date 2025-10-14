@@ -4,7 +4,7 @@ title: Week 7 - LLMs - III
 
 Oct 14
 : LLM: Finetuning
-  : [Lecture 11]()
+  : [Lecture 11](https://edstem.org/us/courses/84347/lessons/150456/slides/872573)
 
 Oct 16
 : Advanced training workflows: experiment tracking (W&B), multi GPU, serverless training (Vertex AI)
