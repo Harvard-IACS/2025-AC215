@@ -93,16 +93,16 @@ nav_order: 2
 
 
 ## Tutorial 12: Model Compression and Distillation
-- **Lecture**: [L11](../schedule/)
+- **Lecture**: []
 - **Description**: Model Compression and Distillation
-- **Colab Notebook**: [Model Compression and Distillation](https://colab.research.google.com/drive/16zMs3Z9m3UsljUMZIoE2QuyegUyndpHz?usp=drive_link)
+- **Colab Notebook**: [Model Compression and Distillation]
 
 
 ## Tutorial 13: Experiment Tracking
 - **Lecture**: [L12](../schedule/)
 - **Description**: Classification Model, Experiment Tracking
-**Colab Notebook A**: [Cheese Classification Models](https://colab.research.google.com/drive/1GIslUzm62UsiDCWleLdANaNM-Z7JiExB)
-**Colab Notebook B**: [Experiment Tracking with WANDB](https://colab.research.google.com/drive/1VrNXEmfQnozPaV-aAWGIZ1Hm-NBEXOjk?usp=sharing)
+- **Colab Notebook A**: [Cheese Classification Models](https://colab.research.google.com/drive/1h6xRhjILxaUosXlZ5ZC1NZbP0AOHALTl?usp=sharing)
+- **Colab Notebook B**: [Experiment Tracking with W&B](https://colab.research.google.com/drive/1aAE5vR9r6Syh4heZboDbQNZS048VToxS?usp=sharing)
 
 
 ## Tutorial 14: Advanced Workflow: Serveless Model Training with Vertex AI 

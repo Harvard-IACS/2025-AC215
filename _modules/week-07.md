@@ -8,7 +8,7 @@ Oct 14
 
 Oct 16
 : Advanced training workflows: experiment tracking (W&B), multi GPU, serverless training (Vertex AI)
-  : [Lecture 12]()
+  : [Lecture 12](https://drive.google.com/file/d/1aAt6Y5Sr0PwAEPGef2u4t2EEsy9e2Lmk/view?usp=sharing)
 
 : [**MS 2 due 10/16**](){: .label .label-red }
   

@@ -491,14 +491,14 @@
   },"70": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 12: Model Compression and Distillation",
-    "content": ". | Lecture: L11 | Description: Model Compression and Distillation | Colab Notebook: Model Compression and Distillation | . ",
+    "content": ". | Lecture: [] | Description: Model Compression and Distillation | Colab Notebook: [Model Compression and Distillation] | . ",
     "url": "/tutorials_demo/#tutorial-12-model-compression-and-distillation",
     
     "relUrl": "/tutorials_demo/#tutorial-12-model-compression-and-distillation"
   },"71": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 13: Experiment Tracking",
-    "content": ". | Lecture: L12 | Description: Classification Model, Experiment Tracking Colab Notebook A: Cheese Classification Models Colab Notebook B: Experiment Tracking with WANDB | . ",
+    "content": ". | Lecture: L12 | Description: Classification Model, Experiment Tracking | Colab Notebook A: Cheese Classification Models | Colab Notebook B: Experiment Tracking with W&amp;B | . ",
     "url": "/tutorials_demo/#tutorial-13-experiment-tracking",
     
     "relUrl": "/tutorials_demo/#tutorial-13-experiment-tracking"
