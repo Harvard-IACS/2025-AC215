@@ -448,166 +448,75 @@
     "relUrl": "/tutorials_demo/#tutorial-5b-mega-pipeline-app-with-flexible-workflow"
   },"64": {
     "doc": "Tutorials / Demo",
-    "title": "Tutorial 6: Label Studio",
-    "content": ". | Lecture: [] | Description: Learn how to use Label Studio for data labeling. | GitHub URL: Label Studio [GCP and AWS] | . ",
-    "url": "/tutorials_demo/#tutorial-6-label-studio",
+    "title": "Tutorial 6: LLM-RAG",
+    "content": ". | Lecture: L09 | Description: Building a RAG System with Vector DB and LLM | GCP GitHub URL: LLM-1 | . ",
+    "url": "/tutorials_demo/#tutorial-6-llm-rag",
     
-    "relUrl": "/tutorials_demo/#tutorial-6-label-studio"
+    "relUrl": "/tutorials_demo/#tutorial-6-llm-rag"
   },"65": {
     "doc": "Tutorials / Demo",
-    "title": "Tutorial 7: Data Versioning",
-    "content": ". | Lecture: [] | Description: Learn about versioning practices in development. Particularly, how to use DVC for data versioning. | GCP GitHub URL: DVC | . ",
-    "url": "/tutorials_demo/#tutorial-7-data-versioning",
+    "title": "Tutorial 7: LLM-Agents",
+    "content": ". | Lecture: L10 | Description: LLM Agents with Phidata (Notebook) | Colab Notebook: LLM-Agents | . ",
+    "url": "/tutorials_demo/#tutorial-7-llm-agents",
     
-    "relUrl": "/tutorials_demo/#tutorial-7-data-versioning"
+    "relUrl": "/tutorials_demo/#tutorial-7-llm-agents"
   },"66": {
     "doc": "Tutorials / Demo",
-    "title": "Tutorial 8: LLM-RAG",
-    "content": ". | Lecture: L09 | Description: Building a RAG System with Vector DB and LLM | GCP GitHub URL: LLM-1 | . ",
-    "url": "/tutorials_demo/#tutorial-8-llm-rag",
+    "title": "Tutorial 8: LLM-Agents",
+    "content": ". | Lecture: L10 | Description: LLM Agents | GCP GitHub URL: LLM-Agents | . ",
+    "url": "/tutorials_demo/#tutorial-8-llm-agents",
     
-    "relUrl": "/tutorials_demo/#tutorial-8-llm-rag"
+    "relUrl": "/tutorials_demo/#tutorial-8-llm-agents"
   },"67": {
     "doc": "Tutorials / Demo",
-    "title": "Tutorial 9: LLM-Agents",
-    "content": ". | Lecture: L10 | Description: LLM Agents with Phidata (Notebook) | Colab Notebook: LLM-Agents | . ",
-    "url": "/tutorials_demo/#tutorial-9-llm-agents",
+    "title": "Tutorial 9: LLM-Fine Tuning",
+    "content": ". | Lecture: L11 | Description: LLM Fine Tuning using PEFT | GCP GitHub URL: LLM Fine Tuning | . ",
+    "url": "/tutorials_demo/#tutorial-9-llm-fine-tuning",
     
-    "relUrl": "/tutorials_demo/#tutorial-9-llm-agents"
+    "relUrl": "/tutorials_demo/#tutorial-9-llm-fine-tuning"
   },"68": {
     "doc": "Tutorials / Demo",
-    "title": "Tutorial 10: LLM-Agents",
-    "content": ". | Lecture: L10 | Description: LLM Agents | GCP GitHub URL: LLM-Agents | . ",
-    "url": "/tutorials_demo/#tutorial-10-llm-agents",
+    "title": "Tutorial 10: Model Compression and Distillation",
+    "content": ". | Lecture: [] | Description: Model Compression and Distillation | Colab Notebook: [Model Compression and Distillation] | . ",
+    "url": "/tutorials_demo/#tutorial-10-model-compression-and-distillation",
     
-    "relUrl": "/tutorials_demo/#tutorial-10-llm-agents"
+    "relUrl": "/tutorials_demo/#tutorial-10-model-compression-and-distillation"
   },"69": {
     "doc": "Tutorials / Demo",
-    "title": "Tutorial 11: LLM-Fine Tuning",
-    "content": ". | Lecture: L11 | Description: LLM Fine Tuning using PEFT | GCP GitHub URL: LLM Fine Tuning | . ",
-    "url": "/tutorials_demo/#tutorial-11-llm-fine-tuning",
+    "title": "Tutorial 11: Experiment Tracking",
+    "content": ". | Lecture: L12 | Description: Classification Model, Experiment Tracking | Colab Notebook A: Cheese Classification Models | Colab Notebook B: Experiment Tracking with W&amp;B | . ",
+    "url": "/tutorials_demo/#tutorial-11-experiment-tracking",
     
-    "relUrl": "/tutorials_demo/#tutorial-11-llm-fine-tuning"
+    "relUrl": "/tutorials_demo/#tutorial-11-experiment-tracking"
   },"70": {
     "doc": "Tutorials / Demo",
-    "title": "Tutorial 12: Model Compression and Distillation",
-    "content": ". | Lecture: [] | Description: Model Compression and Distillation | Colab Notebook: [Model Compression and Distillation] | . ",
-    "url": "/tutorials_demo/#tutorial-12-model-compression-and-distillation",
+    "title": "Tutorial 12: Advanced Workflow: Serveless Model Training with Vertex AI",
+    "content": ". | Lecture: L12 | Description: Serveless Model Training with Vertex AI | GCP GitHub URL: Serverless Model Training | . ",
+    "url": "/tutorials_demo/#tutorial-12-advanced-workflow-serveless-model-training-with-vertex-ai",
     
-    "relUrl": "/tutorials_demo/#tutorial-12-model-compression-and-distillation"
+    "relUrl": "/tutorials_demo/#tutorial-12-advanced-workflow-serveless-model-training-with-vertex-ai"
   },"71": {
     "doc": "Tutorials / Demo",
-    "title": "Tutorial 13: Experiment Tracking",
-    "content": ". | Lecture: L12 | Description: Classification Model, Experiment Tracking | Colab Notebook A: Cheese Classification Models | Colab Notebook B: Experiment Tracking with W&amp;B | . ",
-    "url": "/tutorials_demo/#tutorial-13-experiment-tracking",
+    "title": "Tutorial 13: Cloud Function and Cloud Run",
+    "content": ". | Lecture: L13 | Description: Cloud Function and Cloud Run | GCP GitHub URL: Cloud Function, Cloud Run | . ",
+    "url": "/tutorials_demo/#tutorial-13-cloud-function-and-cloud-run",
     
-    "relUrl": "/tutorials_demo/#tutorial-13-experiment-tracking"
+    "relUrl": "/tutorials_demo/#tutorial-13-cloud-function-and-cloud-run"
   },"72": {
     "doc": "Tutorials / Demo",
-    "title": "Tutorial 14: Advanced Workflow: Serveless Model Training with Vertex AI",
-    "content": ". | Lecture: L12 | Description: Serveless Model Training with Vertex AI | GCP GitHub URL: Serverless Model Training | . ",
-    "url": "/tutorials_demo/#tutorial-14-advanced-workflow-serveless-model-training-with-vertex-ai",
+    "title": "Tutorial 14: Label Studio",
+    "content": ". | Lecture: 13b | Description: Learn how to use Label Studio for data labeling. | GitHub URL: Label Studio [GCP and AWS] | . ",
+    "url": "/tutorials_demo/#tutorial-14-label-studio",
     
-    "relUrl": "/tutorials_demo/#tutorial-14-advanced-workflow-serveless-model-training-with-vertex-ai"
+    "relUrl": "/tutorials_demo/#tutorial-14-label-studio"
   },"73": {
     "doc": "Tutorials / Demo",
-    "title": "Tutorial 15: Cloud Function and Cloud Run",
-    "content": ". | Lecture: L13 | Description: Cloud Function and Cloud Run | GCP GitHub URL: Cloud Function, Cloud Run | . ",
-    "url": "/tutorials_demo/#tutorial-15-cloud-function-and-cloud-run",
+    "title": "Tutorial 15: Data Versioning",
+    "content": ". | Lecture: 13b | Description: Learn about versioning practices in development. Particularly, how to use DVC for data versioning. | GCP GitHub URL: DVC | . ",
+    "url": "/tutorials_demo/#tutorial-15-data-versioning",
     
-    "relUrl": "/tutorials_demo/#tutorial-15-cloud-function-and-cloud-run"
+    "relUrl": "/tutorials_demo/#tutorial-15-data-versioning"
   },"74": {
-    "doc": "Tutorials / Demo",
-    "title": "Tutorial 16: Model Deployment using Vertex AI",
-    "content": ". | Lecture: L15 | Description: Model Deployment using Vertex AI | GCP GitHub URL: Model Deployment | . ",
-    "url": "/tutorials_demo/#tutorial-16-model-deployment-using-vertex-ai",
-    
-    "relUrl": "/tutorials_demo/#tutorial-16-model-deployment-using-vertex-ai"
-  },"75": {
-    "doc": "Tutorials / Demo",
-    "title": "Tutorial 17: ML Workflow",
-    "content": ". | Lecture: L14 | Description: Vertex AI ML Workflow for pipeline. Data Processing, data collection, model training, model deployment. | GCP GitHub URL: ML Workflow | . ",
-    "url": "/tutorials_demo/#tutorial-17-ml-workflow",
-    
-    "relUrl": "/tutorials_demo/#tutorial-17-ml-workflow"
-  },"76": {
-    "doc": "Tutorials / Demo",
-    "title": "Tutorial 18: Deploy LLM on VM",
-    "content": ". | Lecture: - | Description: Deploy your own LLM on VM. These are the steps to deploy a LLM on VM with all the scripts and code. | GCP GitHub URL: LLM on VM | . ",
-    "url": "/tutorials_demo/#tutorial-18-deploy-llm-on-vm",
-    
-    "relUrl": "/tutorials_demo/#tutorial-18-deploy-llm-on-vm"
-  },"77": {
-    "doc": "Tutorials / Demo",
-    "title": "Tutorial 19: CI/CD with GitHub Actions and other tools",
-    "content": ". | Lecture: L18 | Description: Simple CI | GCP GitHub URL: Simple CI | . ",
-    "url": "/tutorials_demo/#tutorial-19-cicd-with-github-actions-and-other-tools",
-    
-    "relUrl": "/tutorials_demo/#tutorial-19-cicd-with-github-actions-and-other-tools"
-  },"78": {
-    "doc": "Tutorials / Demo",
-    "title": "Tutorial 20: LLM Finetuning Hooks",
-    "content": ". | Lecture: L18 | Description: LLM Finetuning Hooks A | GCP GitHub URL: LLM Finetuning Hooks | . ",
-    "url": "/tutorials_demo/#tutorial-20-llm-finetuning-hooks",
-    
-    "relUrl": "/tutorials_demo/#tutorial-20-llm-finetuning-hooks"
-  },"79": {
-    "doc": "Tutorials / Demo",
-    "title": "Tutorial 21: LLM Finetuning Hooks",
-    "content": ". | Lecture: L19 | Description: LLM Finetuning Hooks B | GCP GitHub URL: LLM Finetuning Hooks | . ",
-    "url": "/tutorials_demo/#tutorial-21-llm-finetuning-hooks",
-    
-    "relUrl": "/tutorials_demo/#tutorial-21-llm-finetuning-hooks"
-  },"80": {
-    "doc": "Tutorials / Demo",
-    "title": "Tutorial 22: Frontend and FastAPI",
-    "content": ". | Lecture: L15 | Description: Simple Frontend with FastAPI | GCP GitHub URL: App v1 | . ",
-    "url": "/tutorials_demo/#tutorial-22-frontend-and-fastapi",
-    
-    "relUrl": "/tutorials_demo/#tutorial-22-frontend-and-fastapi"
-  },"81": {
-    "doc": "Tutorials / Demo",
-    "title": "Tutorial 23: Backend and FastAPI",
-    "content": ". | Lecture: L16 | Description: Cheese App APIs | GCP GitHub URL: App v2: FastAPI Backend | . ",
-    "url": "/tutorials_demo/#tutorial-23-backend-and-fastapi",
-    
-    "relUrl": "/tutorials_demo/#tutorial-23-backend-and-fastapi"
-  },"82": {
-    "doc": "Tutorials / Demo",
-    "title": "Tutorial 24: Frontend Simple",
-    "content": ". | Lecture: L17 | Description: Frontend Simple | GCP GitHub URL: App v2: Frontend Simple | . ",
-    "url": "/tutorials_demo/#tutorial-24-frontend-simple",
-    
-    "relUrl": "/tutorials_demo/#tutorial-24-frontend-simple"
-  },"83": {
-    "doc": "Tutorials / Demo",
-    "title": "Tutorial 25: Frontend React",
-    "content": ". | Lecture: L17 | Description: Frontend App (React) | GCP GitHub URL: App v2: Frontend React | . ",
-    "url": "/tutorials_demo/#tutorial-25-frontend-react",
-    
-    "relUrl": "/tutorials_demo/#tutorial-25-frontend-react"
-  },"84": {
-    "doc": "Tutorials / Demo",
-    "title": "Tutorial 26: Deployment of the full app to GCP",
-    "content": ". | Lecture: L20 | Description: Deployment to GCP using Ansible. Manual steps to deploy the app to GCP and automate using Ansible. | GCP GitHub URL: App v3: Deployment to GCP | . ",
-    "url": "/tutorials_demo/#tutorial-26-deployment-of-the-full-app-to-gcp",
-    
-    "relUrl": "/tutorials_demo/#tutorial-26-deployment-of-the-full-app-to-gcp"
-  },"85": {
-    "doc": "Tutorials / Demo",
-    "title": "Tutorial 27: Deployment with Scaling using Kubernetes",
-    "content": ". | Lecture: L21 | Description: Deployment with Scaling using Kubernetes | GCP GitHub URL: App v3: Deployment with Scaling using Kubernetes | . ",
-    "url": "/tutorials_demo/#tutorial-27-deployment-with-scaling-using-kubernetes",
-    
-    "relUrl": "/tutorials_demo/#tutorial-27-deployment-with-scaling-using-kubernetes"
-  },"86": {
-    "doc": "Tutorials / Demo",
-    "title": "Tutorial 28: Continuous Integration and Continuous Deployment",
-    "content": ". | Lecture: L22 | Description: Continuous Integration and Continuous Deployment | GCP GitHub URL: App v4: Continuous Integration and Continuous Deployment | AWS GitHub URL: No K8s App: AWS - Continuous Integration and Continuous Deployment | . ",
-    "url": "/tutorials_demo/#tutorial-28-continuous-integration-and-continuous-deployment",
-    
-    "relUrl": "/tutorials_demo/#tutorial-28-continuous-integration-and-continuous-deployment"
-  },"87": {
     "doc": "Tutorials / Demo",
     "title": "Tutorials / Demo",
     "content": " ",
