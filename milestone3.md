@@ -121,6 +121,17 @@ Template Repository: [AC215 Milestone 3 Template Repository](https://github.com/
 9. **Think hard about “Future Work.”** Show real understanding of the problem. Avoid vague lines like “get more data” or “make it scalable.” **Be specific** about next experiments, metrics, users, or failure modes you’ll tackle next.
 10. **End strong** — finish with a clear takeaway, not “That’s all.” Leave the audience knowing why your work matters.
 
+### Grading (25 points total)
+- **1 point** - Peer and Self Evaluation
+- **4 points** - Adjustment based on Peer, Self and TF Evaluation (contribution, meeting attendance)
+- **20 points** - Final presentation, evaluated on: 
+  - Technical Depth
+  - Business Acumen
+  - Clarity and Structure
+  - Visual Communication
+  - Engagement and Delivery
+
+
 <!-- ## Milestone 3 : Midterm Presentation 
 
 ### **Overview**
