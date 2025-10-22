@@ -15,8 +15,7 @@ These guidelines are meant to provide general direction for preparing your Miles
 **Practical Information**
 
 - Presentation Date: 10/28 
-- Locations: Will be posted on Ed.
-- Schedule: Will be posted on Ed.
+- Locations and Schdeule: [Ed](https://edstem.org/us/courses/84347/discussion/7181805)
 
 **Overview**
 
