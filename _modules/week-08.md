@@ -11,4 +11,4 @@ Oct 21
 
 Oct 23
 : ML Workflows with Vertex AI
-  : [Lecture 14]()
+  : [Lecture 14](https://drive.google.com/file/d/1Qck9oSXwcUvriHnS1jIZ8ABXE3MM7ECi/view?usp=sharing)
