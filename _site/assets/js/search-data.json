@@ -532,6 +532,20 @@
     "relUrl": "/tutorials_demo/#tutorial-15-data-versioning"
   },"76": {
     "doc": "Tutorials / Demo",
+    "title": "Tutorial 16: Model Deployment using Vertex AI",
+    "content": ". | Lecture: L14 | Description: Model Deployment using Vertex AI | GCP GitHub URL: Model Deployment | . ",
+    "url": "/tutorials_demo/#tutorial-16-model-deployment-using-vertex-ai",
+    
+    "relUrl": "/tutorials_demo/#tutorial-16-model-deployment-using-vertex-ai"
+  },"77": {
+    "doc": "Tutorials / Demo",
+    "title": "Tutorial 17: ML Workflow",
+    "content": ". | Lecture: L14 | Description: Vertex AI ML Workflow for pipeline. Data Processing, data collection, model training, model deployment. | GCP GitHub URL: ML Workflow | . ",
+    "url": "/tutorials_demo/#tutorial-17-ml-workflow",
+    
+    "relUrl": "/tutorials_demo/#tutorial-17-ml-workflow"
+  },"78": {
+    "doc": "Tutorials / Demo",
     "title": "Tutorials / Demo",
     "content": " ",
     "url": "/tutorials_demo/",

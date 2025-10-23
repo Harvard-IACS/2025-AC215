@@ -120,8 +120,8 @@ nav_order: 2
 
 ---
 
-<!-- ## Tutorial 16: Model Deployment using Vertex AI
-- **Lecture**: [L15](../schedule/)
+## Tutorial 16: Model Deployment using Vertex AI
+- **Lecture**: [L14](../schedule/)
 - **Description**: Model Deployment using Vertex AI
 - **GCP GitHub URL**: [Model Deployment](https://github.com/dlops-io/model-deployment)
 
@@ -132,6 +132,9 @@ nav_order: 2
 - **Description**:  Vertex AI ML Workflow for pipeline. Data Processing, data collection, model training, model deployment.
 - **GCP GitHub URL**: [ML Workflow](https://github.com/dlops-io/ml-workflow)
 
+---
+
+<!-- 
 ## Tutorial 18: Deploy LLM on VM
 
 - **Lecture**: - 
