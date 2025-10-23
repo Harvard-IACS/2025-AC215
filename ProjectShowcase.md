@@ -7,6 +7,6 @@ nav_order: 7
 
 
 ##  AC215 Project Showcase 
-(December 10th 2025 - 9:00 AM - 12:00 AM)
+(December 10th 2025 - 9:00 AM - 12:00 PM)
 
 Coming soon !
