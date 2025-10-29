@@ -12,7 +12,9 @@ Milestone 4 focuses on developing, testing, and deploying a user-facing applicat
 
 - Due date:  11/25
 
+Coming soon !
 
+<!-- 
 ### Template Repository
 [Milestone 4 Template]()
 
@@ -58,4 +60,4 @@ Milestone 4 focuses on developing, testing, and deploying a user-facing applicat
    - Detailed explanations of the testing strategy and implemented tests.
    - **Should Include:**
      - **Testing Tools Used:** (e.g. PyTest)
-     - **Instructions to Run Tests Manually:** For developers to replicate test results locally.
+     - **Instructions to Run Tests Manually:** For developers to replicate test results locally. -->
