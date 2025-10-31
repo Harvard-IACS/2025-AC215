@@ -9,5 +9,3 @@ Nov 4
 Nov 6
 : Frontend
   : [Lecture 16]()
-
-: [**HW2 due 11/06**](){: .label .label-red }

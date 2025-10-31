@@ -330,14 +330,14 @@
   },"47": {
     "doc": "Schedule",
     "title": "Week 10 - APIs and Frontend",
-    "content": "Nov 4 APIs Lecture 15 Nov 6 Frontend Lecture 16 HW2 due 11/06 . ",
+    "content": "Nov 4 APIs Lecture 15 Nov 6 Frontend Lecture 16 ",
     "url": "/schedule/#week-10-apis-and-frontend",
     
     "relUrl": "/schedule/#week-10-apis-and-frontend"
   },"48": {
     "doc": "Schedule",
     "title": "Week 11 - CI/CD with GitHub Actions",
-    "content": "Nov 11 Automating Software Development: CI/CD with GitHub Actions and other tools I Lecture 17 Nov 13 Automating Software Development: CI/CD with GitHub Actions and other tools II Lecture 18 ",
+    "content": "Nov 11 Automating Software Development: CI/CD with GitHub Actions and other tools I Lecture 17 Nov 13 Automating Software Development: CI/CD with GitHub Actions and other tools II Lecture 18 HW2 due 11/10 . ",
     "url": "/schedule/#week-11-ci-cd-with-github-actions",
     
     "relUrl": "/schedule/#week-11-ci-cd-with-github-actions"
