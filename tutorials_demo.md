@@ -132,6 +132,13 @@ nav_order: 2
 - **Description**:  Vertex AI ML Workflow for pipeline. Data Processing, data collection, model training, model deployment.
 - **GCP GitHub URL**: [ML Workflow](https://github.com/dlops-io/ml-workflow)
 
+
+## Tutorial 18: Frontend 
+- **Lecture**: [L15](../schedule/)
+- **Description**: Frontend 
+- **GCP GitHub URL**: [App v2: Frontend ](https://github.com/dlops-io/cheese-app-v2)
+
+
 ---
 
 <!-- 

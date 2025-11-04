@@ -546,6 +546,13 @@
     "relUrl": "/tutorials_demo/#tutorial-17-ml-workflow"
   },"78": {
     "doc": "Tutorials / Demo",
+    "title": "Tutorial 18: Frontend",
+    "content": ". | Lecture: L15 | Description: Frontend | GCP GitHub URL: App v2: Frontend | . ",
+    "url": "/tutorials_demo/#tutorial-18-frontend",
+    
+    "relUrl": "/tutorials_demo/#tutorial-18-frontend"
+  },"79": {
+    "doc": "Tutorials / Demo",
     "title": "Tutorials / Demo",
     "content": " ",
     "url": "/tutorials_demo/",
