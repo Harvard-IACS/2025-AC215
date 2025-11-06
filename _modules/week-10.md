@@ -8,4 +8,4 @@ Nov 4
 
 Nov 6
 : Frontend
-  : [Lecture 16]()
+  : [Lecture 16](https://drive.google.com/file/d/1Nx9lGruz2J0QGxa_SuQZiW22Wahzik43/view?usp=sharing)
