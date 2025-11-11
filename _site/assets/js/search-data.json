@@ -588,6 +588,13 @@
     "relUrl": "/tutorials_demo/#tutorial-22-app-template"
   },"84": {
     "doc": "Tutorials / Demo",
+    "title": "Tutorial 23: CI/CD with GitHub Actions and other tools",
+    "content": ". | Lecture: L17 | Description: CI/CD | GCP GitHub URL: CI/CD | . ",
+    "url": "/tutorials_demo/#tutorial-23-cicd-with-github-actions-and-other-tools",
+    
+    "relUrl": "/tutorials_demo/#tutorial-23-cicd-with-github-actions-and-other-tools"
+  },"85": {
+    "doc": "Tutorials / Demo",
     "title": "Tutorials / Demo",
     "content": " ",
     "url": "/tutorials_demo/",

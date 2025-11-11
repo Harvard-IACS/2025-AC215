@@ -162,6 +162,15 @@ nav_order: 2
 - **GCP GitHub URL**: [App Template](https://github.com/dlops-io/app-building-crashcourse)
 
 
+## Tutorial 23: CI/CD with GitHub Actions and other tools
+- **Lecture**: [L17](../schedule/)
+- **Description**: CI/CD
+- **GCP GitHub URL**: [CI/CD](https://github.com/dlops-io/cheese-app-ci-cd)
+
+
+
+
+
 ---
 
 <!-- 
