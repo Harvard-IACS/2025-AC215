@@ -9,6 +9,6 @@ Nov 11
 
 Nov 13
 : Automating Software Development: CI/CD with GitHub Actions and other tools II
-  : [Lecture 18]()
+  : [Lecture 18](https://drive.google.com/file/d/1tfotfH4mWLQJHweoop4hFROzoRO416dk/view?usp=sharing)
 
 : [**HW2 due 11/10**](){: .label .label-red }
