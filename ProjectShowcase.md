@@ -162,6 +162,13 @@ nav_order: 7
   </p>
 </div>
 
+<div class="project-card">
+  <img src="../assets/projects/EatYourSkinOut.jpg" alt="Eat Your Skin Out" class="project-image">
+  <h3 class="project-title">Eat Your Skin Out</h3>
+  <p class="project-description">
+    A recommendation system that uses an LLM to detect skin conditions and generate nutrient-based food suggestions tailored to personal preferences. This project is designed for individuals with skin concerns who prefer gentler, internal, and longer-term approaches to skin health.
+  </p>
+</div> 
 
 </div>
 
