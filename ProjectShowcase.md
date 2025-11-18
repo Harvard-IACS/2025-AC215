@@ -170,6 +170,88 @@ nav_order: 7
   </p>
 </div> 
 
+<div class="project-card">
+  <img src="../assets/projects/Tressure.png" alt="Tressure" class="project-image">
+  <h3 class="project-title">Tressure</h3>
+  <p class="project-description">
+  The Tressure web/mobile app quantifies hair density and hair health over time
+It is better than other existing treatments because it is more accessible (less expensive), it quantifies the difference, and it allows users to chat with app. We target tracking hair regrowth and initial time to start using hair loss products as two major applications.
+  </p>
+</div> 
+
+<div class="project-card">
+  <img src="../assets/projects/Evea.png" alt="Evea" class="project-image">
+  <h3 class="project-title">Evea</h3>
+  <p class="project-description">
+  Every month, millions of women experience painful, disruptive symptoms and most are told to take birth control, antidepressants, or simply “deal with it.” We deserve better, that's why we are building digital functional health practice to help tackle PMS through lifestyle changes. We integrate wearable data, cycle tracking, and symptom logs with women's health research to give personalized insights and interventions.
+  </p>
+</div> 
+
+<div class="project-card">
+  <img src="../assets/projects/Avi.png" alt="Avi" class="project-image">
+  <h3 class="project-title">Avi</h3>
+  <p class="project-description">
+    We're building a digital twin platform that helps people unlock shared context. For individuals, our platform connects data across services to unlock deeper insights, smarter recommendations, and more personalized experiences. For professionals, we build intelligent digital twins that handle the repetitive, foundational work to shift the human focus to the last mile: the unique touch that makes each client experience exceptional.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/BiteFinder.png" alt="BiteFinder" class="project-image">
+  <h3 class="project-title">BiteFinder</h3>
+  <p class="project-description">
+    BiteFinder is an AI-powered web app that helps users identify insect bites and receive tailored treatment advice. By combining image and text analysis through a multimodal pipeline, it classifies the likely insect type and retrieves relevant medical guidance using a Retrieval-Augmented Generation (RAG) model.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/CrimsonCompass.png" alt="Crimson Compass" class="project-image">
+  <h3 class="project-title">Crimson Compass</h3>
+  <p class="project-description">
+    Crimson Compass is an AI-powered guide to what's happening around Cambridge. Designed for Harvard students, it makes discovering local events as easy as having a conversation: just ask, "What free art events are happening this weekend?" and get personalized suggestions powered by smart search and curated data from across the city.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/CADCoderNextGen.png" alt="CAD-Coder-NextGen" class="project-image">
+  <h3 class="project-title">CAD-Coder-NextGen</h3>
+  <p class="project-description">
+    CAD-Coder NextGen leverages LLAVA/Qwen-based LLM model to provide mechanical engineers, enthusiasts and educators with the necessary tools to make modifications to CAD images. Users upload an image file through a Chat-GPT style user interface and can get the python-query code directly from it.
+  </p>
+</div>
+
+<!-- <div class="project-card">
+  <img src="../assets/projects/Spatially.png" alt="Spatially" class="project-image">
+  <h3 class="project-title">Spatially</h3>
+  <p class="project-description">
+    Spatially aims to address the housing crisis by developing a scalable pipeline for producing informative zoning-ordinance tools. Zoning ordinances—large, highly technical regulatory documents that dictate what can be built, where, and how—are difficult for property owners and small developers to navigate, and existing digital tools are limited to a few cities and generally not user-friendly. To overcome these barriers, Spatially integrates zoning ordinance text, development plans, and census-based spatial context, leveraging large language models (LLM) to extract, structure, and deliver precise, accessible zoning guidance.
+  </p>
+</div> -->
+
+<div class="project-card">
+  <img src="../assets/projects/Spatially.png" alt="Spatially" class="project-image">
+  <h3 class="project-title">Spatially</h3>
+  <p class="project-description">
+    Spatially addresses the housing crisis by making complex zoning ordinances accessible to property owners and small developers. Using LLMs, it extracts and structures zoning regulations from technical documents, integrating them with development plans and spatial data to deliver clear, actionable guidance on what can be built and where.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/HarvardLoop.jpg" alt="Harvard Loop" class="project-image">
+  <h3 class="project-title">Harvard Loop</h3>
+  <p class="project-description">
+    Harvard Loop is an AI powered lost and found app designed specifically for the Harvard community. We use LLM-powered embeddings to quickly and accurately match lost and found items.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/VibeMaps.png" alt="VibeMaps" class="project-image">
+  <h3 class="project-title">VibeMaps</h3>
+  <p class="project-description">
+    Our project flips local discovery on its head by letting people search for vibes instead of addresses. We map the atmosphere and energy of real spaces so users can ask for what they actually want - like a cozy date spot, a high-energy workspace, or a minimalist, quiet café. The result is a way to navigate the world by feeling, not coordinates.
+  </p>
+</div>
+
+
 </div>
 
 ---
