@@ -168,6 +168,10 @@ nav_order: 2
 - **GCP GitHub URL**: [CI/CD](https://github.com/dlops-io/cheese-app-ci-cd)
 
 
+## Tutorial 24: Deployment of the full app to GCP
+- **Lecture**: [L19](../schedule/)
+- **Description**: Deployment to GCP using Pulumi
+- **GCP GitHub URL**: [App v3: Deployment to GCP](https://github.com/dlops-io/cheese-app-v3)
 
 
 

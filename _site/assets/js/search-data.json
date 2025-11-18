@@ -595,6 +595,13 @@
     "relUrl": "/tutorials_demo/#tutorial-23-cicd-with-github-actions-and-other-tools"
   },"85": {
     "doc": "Tutorials / Demo",
+    "title": "Tutorial 24: Deployment of the full app to GCP",
+    "content": ". | Lecture: L19 | Description: Deployment to GCP using Pulumi | GCP GitHub URL: App v3: Deployment to GCP | . ",
+    "url": "/tutorials_demo/#tutorial-24-deployment-of-the-full-app-to-gcp",
+    
+    "relUrl": "/tutorials_demo/#tutorial-24-deployment-of-the-full-app-to-gcp"
+  },"86": {
+    "doc": "Tutorials / Demo",
     "title": "Tutorials / Demo",
     "content": " ",
     "url": "/tutorials_demo/",
