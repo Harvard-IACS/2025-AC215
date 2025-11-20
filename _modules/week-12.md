@@ -8,5 +8,5 @@ Nov 18
 
 Nov 20
 : Scaling: Kubernetes  
-  : [Lecture 20]()
+  : [Lecture 20](https://drive.google.com/file/d/1Ou1rM2sqJX7j-YAtdH8MbimazZHuPoXJ/view?usp=drive_link)
 
