@@ -251,6 +251,198 @@ It is better than other existing treatments because it is more accessible (less 
   </p>
 </div>
 
+<div class="project-card">
+  <img src="../assets/projects/gana.png" alt="gana" class="project-image">
+  <h3 class="project-title">gana</h3>
+  <p class="project-description">
+    Gana's vision is to allow people to bet on their motivations and form a social community along the way. Users upload selfies of themselves as the gym and AI detects whether gym environment is verified.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/TopShot.png" alt="TopShot" class="project-image">
+  <h3 class="project-title">TopShot</h3>
+  <p class="project-description">
+    TopShot is an AI-powered app that serves as a photography tutor to beginners. It will analyze user-uploaded photos to provide feedback on technical parameters and visual composition. Novice photographers will be provided with constructive, personalized feedback to help them improve their skills.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/AIConceptVisualizer.png" alt="AI Concept Visualizer" class="project-image">
+  <h3 class="project-title">AI Concept Visualizer</h3>
+  <p class="project-description">
+    Generating educational content such as animations, podcasts, quizzes to explain complex concepts in STEM using natural language.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/HistoriCam.png" alt="HistoriCam" class="project-image">
+  <h3 class="project-title">HistoriCam</h3>
+  <p class="project-description">
+    HistoriCam is a mobile-first web application that combines computer vision, geolocation, and historical data to provide instant information about landmarks. Users can point their camera at a building or landmark, and the app will identify it and provide historical context and interesting facts.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/Art3D.png" alt="Art3D" class="project-image">
+  <h3 class="project-title">Art3D</h3>
+  <p class="project-description">
+    Tired of flat visuals? Our tool lifts any 2D drawing into a delicate 3D mesh - no modeling skills required! With a plug-and-play interface powered by a robust end-to-end AI pipeline, creators get ready-to-use 3D assets for games, avatars, animation, and even virtual assets like furniture, all in just a few clicks.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/Randori.png" alt="Randori" class="project-image">
+  <h3 class="project-title">Randori</h3>
+  <p class="project-description">
+    Randori is an autonomous AI agent that plans and executes penetration tests in controlled, containerized environments. It automates manual pentesting tasks to identify weaknesses, reducing the time and cost of traditional security testing.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/DailyDrip.png" alt="DailyDrip" class="project-image">
+  <h3 class="project-title">DailyDrip</h3>
+  <p class="project-description">
+    Brewing coffee consistently to match individual taste preferences is difficult due to the large number of variables (beans, roast, grind size, water ratio, temperature, etc.) and subjective nature of taste. DailyDrip aims to solve this by providing a data-driven, personalized coffee assistant that recommends brewing recipes, generates visual brewing timelines, and learns from user feedback.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/DataDetox.jpg" alt="DataDetox" class="project-image">
+  <h3 class="project-title">DataDetox</h3>
+  <p class="project-description">
+    DataDetox is an interactive AI agent orchestration system that leverages MCP, graph-based data, and cloud infrastructure to trace ML data and model provenance. Using Hugging Face model information and arXiv papers, the system traces how datasets and models connect across the AI ecosystem, helping developers identify hidden risks like copyrighted data or problematic datasets that propagate downstream.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/HERM.png" alt="HERM (Skin the Code)" class="project-image">
+  <h3 class="project-title">HERM (Skin the Code)</h3>
+  <p class="project-description">
+    Our project builds an AI-driven skincare product recommendation system, that unifies skin analysis, contextual factors such as weather and personal schedule, and personalized product recommendations. Powered by RAG, multi-agent pipelines, and GCP infrastructure to deliver personalized, reliable suggestions based on a user's skin needs and context.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/LessHueMoreVue.jpg" alt="Less Hue, More Vue" class="project-image">
+  <h3 class="project-title">Less Hue, More Vue</h3>
+  <p class="project-description">
+    Less Hue is a platform that allows for the transmission of photos in low bandwidth environments. We compress photos through decoloration and use a model to recolor the model. Our initial use case is for photojournalists in areas of the world with poor internet connection.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/TummyAI.png" alt="TummyAI" class="project-image">
+  <h3 class="project-title">TummyAI</h3>
+  <p class="project-description">
+    In this project, we aim to develop an AI-powered gastrointestinal health assistant called TummyAI. The app features computer vision technology to recognize common fermentable oligo-saccharides, disaccharides, mono-saccharides, and polyols (FODMAP) foods from user-uploaded photos and classify them into low-, moderate-, or high-FODMAP categories.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/BallotHelper.png" alt="Ballot Helper" class="project-image">
+  <h3 class="project-title">Ballot Helper</h3>
+  <p class="project-description">
+    Ballot Helper is a tool that helps Massachusetts voters discover information about local election candidates. By automatically collecting and organizing candidate information from cities across the state, it lets voters ask natural questions like "What does this candidate think about housing?" to get clear answers. The system uses an LLM and RAG to make researching local elections as simple as having a conversation.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/OptimusDose.jpg" alt="Optimus Dose" class="project-image">
+  <h3 class="project-title">Optimus Dose</h3>
+  <p class="project-description">
+    Optimus-Dose is an intelligent diabetes management web app that delivers personalized insulin recommendations by combining blood glucose monitoring, meal tracking, AI-powered carbohydrate estimation from meal photos, and patient-specific parameters. The integrated RAG system leverages up-to-date research and clinical guidelines to provide evidence-based, explainable dosing suggestions that prioritize medical safety.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/Dialogos.png" alt="Dialogos.ai" class="project-image">
+  <h3 class="project-title">Dialogos.ai</h3>
+  <p class="project-description">
+    Dialogos AI turns your study materials into personalised flashcards and pairs you with an AI Socratic tutor that helps you truly master concepts - not just memorise answers. Upload your study materials, and our system automatically generates smart flashcards tailored to different learning levels, then guides you through practice with an intelligent tutor that asks thought-provoking questions to deepen your understanding.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/HARV.jpg" alt="HARV" class="project-image">
+  <h3 class="project-title">HARV</h3>
+  <p class="project-description">
+    HARV (Harvard Attendance Recognition & Verification) tackles attendance fraud by combining geolocation checks and machine-learning–based ID verification of student lecture hall scans. After a quick setup at the start of the semester, it runs with virtually no ongoing effort from instructors.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/FitAI.png" alt="FitAI" class="project-image">
+  <h3 class="project-title">FitAI</h3>
+  <p class="project-description">
+    FitAI is a containerized, end-to-end system that delivers personalized fitness recommendations powered by large language models (LLMs) and retrieval-augmented generation (RAG).
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/StyleMe.png" alt="StyleMe" class="project-image">
+  <h3 class="project-title">StyleMe</h3>
+  <p class="project-description">
+    StyleMe is a personal AI stylist designed to turn any existing wardrobe into endless outfit ideas. It understands each clothing item and recommends combinations that match an individual's style. No more "nothing to wear" moments.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/NewsJuice.png" alt="NewsJuice" class="project-image">
+  <h3 class="project-title">NewsJuice</h3>
+  <p class="project-description">
+    NewsJuice transforms passive news consumption into an interactive conversation with AI. Busy people ask questions about the news out loud and receive instant, personalized podcast responses from live news articles—turning commutes and multitasking time into effortless, interactive news briefings tailored to one's interests.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/FormulaOnePenaltyTool.png" alt="Formula One Penalty Tool" class="project-image">
+  <h3 class="project-title">Formula One Penalty Tool</h3>
+  <p class="project-description">
+    This project demystifies Formula One race penalties by translating dense FIA regulations and steward reports into clear, fan-friendly explanations. Powered by AI, the system analyzes each infringement, references the exact clauses breached, and compares penalties to similar past cases to assess fairness.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/Duped.png" alt="Duped" class="project-image">
+  <h3 class="project-title">Duped</h3>
+  <p class="project-description">
+    A cosmetics dupe-finder app that finds the best low-cost alternatives while maintaining the same functionality. Snap a photo or enter a name, and Duped will find you great dupes and even check for harmful product interactions!
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/EverydayEmotions.png" alt="Everyday Emotions" class="project-image">
+  <h3 class="project-title">Everyday Emotions</h3>
+  <p class="project-description">
+    Everyday Emotions is an AI mental health assistant designed to provide long-term emotional support. It combines mood tracking and an AI chatbot in one platform, allowing users to record their daily feelings through a calendar and receive private, instant emotional support anytime.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/SteamAppIndieLaunch.jpg" alt="Steam App Indie Launch" class="project-image">
+  <h3 class="project-title">Steam App Indie Launch</h3>
+  <p class="project-description">
+    Our app is for everything related to publishing and operating a game on Steam, covering onboarding, store setup, pricing, release processes, sales events, community tools, and platform policies. It also documents technical integration of the Steamworks SDK and Web API, plus finance, tax, and marketing guidance.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/TarAIntino.png" alt="TarAIntino" class="project-image">
+  <h3 class="project-title">TarAIntino</h3>
+  <p class="project-description">
+    We present TarAIntino, an end-to-end system to generate personalized movie trailers (and eventually full movies) using AI. Our core innovations lie in applying advanced preference elicitation techniques to map a user's abstract tastes onto a continuous "cinematic taste space" and orchestrating a resilient, production-grade pipeline to translate that taste into a coherent visual story.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/HopIn.png" alt="HopIn" class="project-image">
+  <h3 class="project-title">HopIn</h3>
+  <p class="project-description">
+    Finding an affordable and suitable apartment in Boston/Cambridge is a stressful and time-consuming process. HopIn tackles the issue by centralizing the scattered information and provide personalized guidance using AI.
+  </p>
+</div>
+
 
 </div>
 
