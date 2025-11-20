@@ -443,6 +443,38 @@ It is better than other existing treatments because it is more accessible (less 
   </p>
 </div>
 
+<div class="project-card">
+  <img src="../assets/projects/LyvHealth.png" alt="Lyv Health" class="project-image">
+  <h3 class="project-title">Lyv Health</h3>
+  <p class="project-description">
+    Lyv Health is a longevity clinic-meets-platform helping women optimize their health through personalized protocols covering nutrition, exercise, supplements, prescriptions, and peptides. We ran a beta this past summer where we saw strong traction: 100% rebooking on telehealth, $510 ARPU, and a waitlist of 5,000 people.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/FirstAidLLM.png" alt="FirstAid-LLM" class="project-image">
+  <h3 class="project-title">FirstAid-LLM</h3>
+  <p class="project-description">
+    FirstAid-LLM transforms static medical manuals into a dynamic, hands-free assistant for urgent care. By leveraging a RAG pipeline grounded in over 130+ trusted sources (e.g., AHA, Red Cross), the system provides cited, step-by-step instructions via text or voice. This ensures laypersons and trainees can access verifiable, hallucination-free guidance for non-life-threatening emergencies instantly.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/Dosewise.png" alt="Dosewise" class="project-image">
+  <h3 class="project-title">Dosewise</h3>
+  <p class="project-description">
+    Dosewise is a drug treatment efficacy predictor. It allows healthcare professionals to monitor patients and see the effect of the drug before it is given. We use a time series model to predict the treatment effect (with drug) and the control (without the drug).
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/ABC.png" alt="ABC: AI Background Music Composer" class="project-image">
+  <h3 class="project-title">ABC: AI Background Music Composer</h3>
+  <p class="project-description">
+    With the rapid rise of short video platforms such as TikTok and YouTube, background music has become an essential factor in shaping the atmosphere and emotional impact of video content. AI Background Music Composer provides an AI-powered solution that generates original background music directly from video input and user preference, overcoming the limitations of existing music libraries.
+  </p>
+</div>
+
 
 </div>
 
