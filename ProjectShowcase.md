@@ -475,6 +475,30 @@ It is better than other existing treatments because it is more accessible (less 
   </p>
 </div>
 
+<div class="project-card">
+  <img src="../assets/projects/NoteAIFy.png" alt="NoteAIFy" class="project-image">
+  <h3 class="project-title">NoteAIFy</h3>
+  <p class="project-description">
+    NoteAIFy is an end-to-end, AI-powered note tutor that corrects your course notes and reinforces key concepts. With integrated data versioning to track your learning history and a RAG-enhanced retrieval system to minimize errors, every recommendation is personalized and grounded in your own materials.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/pibu.png" alt="pibu.ai" class="project-image">
+  <h3 class="project-title">pibu.ai</h3>
+  <p class="project-description">
+    Get fast, helpful insights about your skin conditions with our secure, easy‑to‑use AI app. Upload a photo to receive general information and suggestions, track changes over time, and chat with an AI assistant—while knowing your images and data are kept private and secure.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/AlminO.jpg" alt="AlminO" class="project-image">
+  <h3 class="project-title">AlminO</h3>
+  <p class="project-description">
+    AIMinO is an agentic AI system that enables natural-language control of multiplex imaging data, allowing users to explore, analyze, and model tissue images interactively through Napari and OMERO.
+  </p>
+</div>
+
 
 </div>
 
