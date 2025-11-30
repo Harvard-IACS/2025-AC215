@@ -219,13 +219,6 @@ It is better than other existing treatments because it is more accessible (less 
   </p>
 </div>
 
-<!-- <div class="project-card">
-  <img src="../assets/projects/Spatially.png" alt="Spatially" class="project-image">
-  <h3 class="project-title">Spatially</h3>
-  <p class="project-description">
-    Spatially aims to address the housing crisis by developing a scalable pipeline for producing informative zoning-ordinance tools. Zoning ordinances—large, highly technical regulatory documents that dictate what can be built, where, and how—are difficult for property owners and small developers to navigate, and existing digital tools are limited to a few cities and generally not user-friendly. To overcome these barriers, Spatially integrates zoning ordinance text, development plans, and census-based spatial context, leveraging large language models (LLM) to extract, structure, and deliver precise, accessible zoning guidance.
-  </p>
-</div> -->
 
 <div class="project-card">
   <img src="../assets/projects/Spatially.png" alt="Spatially" class="project-image">
@@ -496,6 +489,14 @@ It is better than other existing treatments because it is more accessible (less 
   <h3 class="project-title">AlminO</h3>
   <p class="project-description">
     AIMinO is an agentic AI system that enables natural-language control of multiplex imaging data, allowing users to explore, analyze, and model tissue images interactively through Napari and OMERO.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/Amicus.png" alt="AlminO" class="project-image">
+  <h3 class="project-title">Amicus</h3>
+  <p class="project-description">
+    Amicus is an AI-powered legal copilot designed to streamline complex litigation review by organizing, analyzing, and synthesizing massive, mixed-format document corpora. It automates issue tagging, privilege detection, timeline construction, and cross-document inconsistency checks while preserving human oversight and full auditability. The system dramatically reduces review time and enhances accuracy for law firms and litigation teams.
   </p>
 </div>
 
