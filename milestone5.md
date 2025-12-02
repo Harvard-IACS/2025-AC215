@@ -134,7 +134,7 @@ This milestone also emphasizes clear communication: a video walkthrough, a publi
 
 ## Submission Instructions
 
-- Submit all deliverables (GitHub repository link, video file, blog post link, and self/peer review forms) via the course submission portal by **11:59 PM, December 11th**.
+- Submit all deliverables (GitHub repository link, video file, blog post link, and self/peer review forms) via the course submission portal by **09:00 PM, December 11th**.
 - **No late submissions.**
 
 ---
