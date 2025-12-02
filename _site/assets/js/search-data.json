@@ -602,6 +602,13 @@
     "relUrl": "/tutorials_demo/#tutorial-24-deployment-of-the-full-app-to-gcp"
   },"86": {
     "doc": "Tutorials / Demo",
+    "title": "Tutorial 25: Continuous Integration and Continuous Deployment",
+    "content": ". | Lecture: L21 | Description: Continuous Integration and Continuous Deployment | GCP GitHub URL: App v4: Continuous Integration and Continuous Deployment | . ",
+    "url": "/tutorials_demo/#tutorial-25-continuous-integration-and-continuous-deployment",
+    
+    "relUrl": "/tutorials_demo/#tutorial-25-continuous-integration-and-continuous-deployment"
+  },"87": {
+    "doc": "Tutorials / Demo",
     "title": "Tutorials / Demo",
     "content": " ",
     "url": "/tutorials_demo/",

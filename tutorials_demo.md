@@ -174,6 +174,10 @@ nav_order: 2
 - **GCP GitHub URL**: [App v3: Deployment to GCP](https://github.com/dlops-io/cheese-app-v3)
 
 
+## Tutorial 25: Continuous Integration and Continuous Deployment
+- **Lecture**: [L21](../schedule/)
+- **Description**: Continuous Integration and Continuous Deployment
+- **GCP GitHub URL**: [App v4: Continuous Integration and Continuous Deployment](https://github.com/dlops-io/cheese-app-v4)
 
 ---
 
