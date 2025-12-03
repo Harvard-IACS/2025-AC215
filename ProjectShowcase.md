@@ -261,8 +261,8 @@ It is better than other existing treatments because it is more accessible (less 
 </div>
 
 <div class="project-card">
-  <img src="../assets/projects/AIConceptVisualizer.png" alt="AI Concept Visualizer" class="project-image">
-  <h3 class="project-title">AI Concept Visualizer</h3>
+  <img src="../assets/projects/AIConceptVisualizer.png" alt="UpcurvEd" class="project-image">
+  <h3 class="project-title">UpcurvEd</h3>
   <p class="project-description">
     Generating educational content such as animations, podcasts, quizzes to explain complex concepts in STEM using natural language.
   </p>
@@ -497,6 +497,38 @@ It is better than other existing treatments because it is more accessible (less 
   <h3 class="project-title">Amicus</h3>
   <p class="project-description">
     Amicus is an AI-powered legal copilot designed to streamline complex litigation review by organizing, analyzing, and synthesizing massive, mixed-format document corpora. It automates issue tagging, privilege detection, timeline construction, and cross-document inconsistency checks while preserving human oversight and full auditability. The system dramatically reduces review time and enhances accuracy for law firms and litigation teams.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/PredictBG.png" alt="PredictBG" class="project-image">
+  <h3 class="project-title">PredictBG</h3>
+  <p class="project-description">
+    PredictBG is an application designed to help people with diabetes anticipate glucose changes and manage daily decisions with less stress. By combining CGM data, food-photo carbohydrate estimation, and adaptive forecasting models, the system produces actionable and understandable guidance.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/JadeEstimationAI.png" alt="Jade Estimation AI" class="project-image">
+  <h3 class="project-title">Jade Estimation AI</h3>
+  <p class="project-description">
+    The Jade Estimator AI Platform leverages advanced AI, including computer vision and a hybrid RAG system, to provide transparent and explainable jade price estimations. It transforms opaque jade appraisal into an intuitive experience, offering objective analysis and interactive expert conversation for both consumers and professionals.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/TheConsult.jpg" alt="The Consult" class="project-image">
+  <h3 class="project-title">The Consult</h3>
+  <p class="project-description">
+    The Consult is an AI assistant that delivers referenced, clinically sound answers for both clinicians and researchers. It pairs Gemini with retrieval over PubMed-derived content so users can see citations, study details, and configurable evidence filters.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/InfluencerLens.png" alt="InfluencerLens" class="project-image">
+  <h3 class="project-title">InfluencerLens</h3>
+  <p class="project-description">
+    To help brands cut through chaotic creator ecosystems and identify partners who fit their marketing goals, InfluencerLens is an AI-driven multimodal RAG platform that understands creator content, audience signals, and brand intent. It delivers transparent, high-quality influencer recommendations that enable faster, more accurate, and more strategic selections.
   </p>
 </div>
 
