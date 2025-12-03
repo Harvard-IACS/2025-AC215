@@ -261,7 +261,7 @@ It is better than other existing treatments because it is more accessible (less 
 </div>
 
 <div class="project-card">
-  <img src="../assets/projects/AIConceptVisualizer.png" alt="UpcurvEd" class="project-image">
+  <img src="../assets/projects/UpcurvEd.jpeg" alt="UpcurvEd" class="project-image">
   <h3 class="project-title">UpcurvEd</h3>
   <p class="project-description">
     Generating educational content such as animations, podcasts, quizzes to explain complex concepts in STEM using natural language.
