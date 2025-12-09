@@ -533,6 +533,31 @@ It is better than other existing treatments because it is more accessible (less 
 </div>
 
 
+<div class="project-card">
+  <img src="../assets/projects/Frootful.png" alt="InfluencerLens" class="project-image">
+  <h3 class="project-title">Frootful</h3>
+  <p class="project-description">
+    Frootful helps distributors fulfill orders really fast. We convert orders they get from email, text, Whatsapp, fax, and more automatically into their software systems, saving them time and costs and allowing them to grow their revenue.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/group_888.jpg" alt="InfluencerLens" class="project-image">
+  <h3 class="project-title">HERM</h3>
+  <p class="project-description">
+    Our project is to design and build a web-based tool that uses large language models to help hospitals and healthcare staff efficiently and accurately classify safety incident reports following the HPI methodology.
+  </p>
+</div>
+
+
+<div class="project-card">
+  <img src="../assets/projects/AgentNet.png" alt="InfluencerLens" class="project-image">
+  <h3 class="project-title">AgentNet</h3>
+  <p class="project-description">
+    AgentNet can search, deploy, and execute a variety of MCP servers.
+  </p>
+</div>
+
 </div>
 
 ---
