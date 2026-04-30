@@ -4,9 +4,9 @@ title: Week 12 - Scaling Kubernetes
 
 Nov 18
 : Deployment: Pulumi
-  : [Lecture 19](https://drive.google.com/file/d/1mAHRrCeC3_8bgL9ST2nDU1CXdQ-InKUF/view?usp=drive_link)
+  : {% comment %}[Lecture 19](https://drive.google.com/file/d/1mAHRrCeC3_8bgL9ST2nDU1CXdQ-InKUF/view?usp=drive_link){% endcomment %}Lecture 19
 
 Nov 20
 : Scaling: Kubernetes  
-  : [Lecture 20](https://drive.google.com/file/d/1Ou1rM2sqJX7j-YAtdH8MbimazZHuPoXJ/view?usp=drive_link)
+  : {% comment %}[Lecture 20](https://drive.google.com/file/d/1Ou1rM2sqJX7j-YAtdH8MbimazZHuPoXJ/view?usp=drive_link){% endcomment %}Lecture 20
 
